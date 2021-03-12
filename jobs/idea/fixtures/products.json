@@ -1,0 +1,3127 @@
+[
+    {
+        "id": 60074247,
+        "code": "300105723",
+        "name": "t5m hleb tost classic 500g t5m",
+        "keyword": "t5m-hleb-tost-classic-500g-t5m",
+        "video": null,
+        "description": null,
+        "short_description": null,
+        "product_path": "/products/60074247/t5m-hleb-tost-classic-500g-t5m",
+        "product_details_path": "/products/60074247",
+        "manufacturer": "DON DON DOO",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300105723_1.jpg?1508483450",
+        "thumbnail_image_path": "images/products/300/300105723_1s.jpg?1508483450",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60161043,
+                "image_n": "images/products/300/300105723_1.jpg?1508483450",
+                "image_s": "images/products/300/300105723_1s.jpg?1508483450",
+                "image_m": "images/products/300/300105723_1m.jpg?1508483450",
+                "image_l": "images/products/300/300105723_1l.jpg?1508483450"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787559,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606018730384"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "259,98 Din/Kg",
+        "price": {
+            "amount": 12999,
+            "currency": "Din",
+            "formatted_price": "129,99 Din"
+        },
+        "favorite": false
+    },
+    {
+        "id": 60008792,
+        "code": "164049983",
+        "name": "Hleb&Kifle hleb 6 zrna 400g",
+        "keyword": "hleb-kifle-hleb-6-zrna-400g",
+        "video": null,
+        "description": "",
+        "short_description": null,
+        "product_path": "/products/60008792/hleb-kifle-hleb-6-zrna-400g",
+        "product_details_path": "/products/60008792",
+        "manufacturer": "Ishrana d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/164/164049983_1.jpg?1500011093",
+        "thumbnail_image_path": "images/products/164/164049983_1s.jpg?1500011093",
+        "categories": [
+            {
+                "id": 60007878,
+                "name": "Hleb pakovani",
+                "category_path": "/categories/60007878/hleb-pakovani",
+                "keyword": "hleb-pakovani"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60128899,
+                "image_n": "images/products/164/164049983_1.jpg?1500011093",
+                "image_s": "images/products/164/164049983_1s.jpg?1500011093",
+                "image_m": "images/products/164/164049983_1m.jpg?1500011093",
+                "image_l": "images/products/164/164049983_1l.jpg?1500011093"
+            },
+            {
+                "id": 60128898,
+                "image_n": "images/products/164/164049983_2.jpg?1500011093",
+                "image_s": "images/products/164/164049983_2s.jpg?1500011093",
+                "image_m": "images/products/164/164049983_2m.jpg?1500011093",
+                "image_l": "images/products/164/164049983_2l.jpg?1500011093"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62786071,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8600101187505"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "374,97 Din/Kg",
+        "price": {
+            "amount": 14999,
+            "currency": "Din",
+            "formatted_price": "149,99 Din"
+        },
+        "netto_weight_statement": "0.45g",
+        "storage_instruction": "Čuvati na sobnoj temperaturi",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "pšenično brašno, voda, zrno soje, lan, raženo brašno, ražana prekrupa, so, soja, dekstroza, sladni ekstrakt, pšenično sladno brašno, kvasac, pšenični gluten, durum brašno, ovsene pahuljice, susam, suncokret, fermentisano pšenično brašno, sredstvo protiv zgrudvavanja (E170), kalcijum propionat (E282), sorbinska kiselina (E200), regulator kiselosti (E262), emulgator E472e, enzimi, antioksidans E300, kiselina E230, regulator kiselosti E263",
+        "manufacturer_address": "Železnička 49, Smederevo, Srbija",
+        "contact_person": "Hleb&Kifle ",
+        "contact_person_address": "Žorža Klemensoa 19, Beograd, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "favorite": false
+    },
+    {
+        "id": 60074246,
+        "code": "300105722",
+        "name": "t5m hleb tost semenke 500g t5m",
+        "keyword": "t5m-hleb-tost-semenke-500g-t5m",
+        "video": null,
+        "description": null,
+        "short_description": null,
+        "product_path": "/products/60074246/t5m-hleb-tost-semenke-500g-t5m",
+        "product_details_path": "/products/60074246",
+        "manufacturer": "DON DON DOO",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300105722_1.jpg?1508483450",
+        "thumbnail_image_path": "images/products/300/300105722_1s.jpg?1508483450",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60161042,
+                "image_n": "images/products/300/300105722_1.jpg?1508483450",
+                "image_s": "images/products/300/300105722_1s.jpg?1508483450",
+                "image_m": "images/products/300/300105722_1m.jpg?1508483450",
+                "image_l": "images/products/300/300105722_1l.jpg?1508483450"
+            }
+        ],
+        "icons": [
+            {
+                "type": "offer",
+                "name": "",
+                "image": {
+                    "media_device": "/assets/icons/offer_media_device-db636ca0bbb5facb3daa386c2480bb4b.png",
+                    "mobile": "/assets/icons/offer_mobile-5bc4111c7e618646da9558deeaa68620.png"
+                }
+            }
+        ],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787558,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606018730407"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "239,98 Din/Kg",
+        "offer": {
+            "id": 61682026,
+            "offer_category_id": 60034166,
+            "type": "DiscountByPrice",
+            "start_on": "22.02.2021.",
+            "end_on": "07.03.2021.",
+            "order_of": 0,
+            "is_mpc": false,
+            "offer_percentage": 17,
+            "price": {
+                "amount": 11999,
+                "currency": "Din",
+                "formatted_price": "119,99 Din"
+            },
+            "original_price": {
+                "amount": 14499,
+                "currency": "Din",
+                "formatted_price": "144,99 Din"
+            },
+            "price_difference": {
+                "amount": 2500,
+                "currency": "Din",
+                "formatted_price": "25,00 Din"
+            },
+            "shop_types_supported": null,
+            "web_available_only": false
+        },
+        "price": {
+            "amount": 11999,
+            "currency": "Din",
+            "formatted_price": "119,99 Din"
+        },
+        "favorite": false
+    },
+    {
+        "id": 60068714,
+        "code": "300105654",
+        "name": "K plus prezle 250g",
+        "keyword": "k-plus-prezle-250g",
+        "video": null,
+        "description": null,
+        "short_description": null,
+        "product_path": "/products/60068714/k-plus-prezle-250g",
+        "product_details_path": "/products/60068714",
+        "manufacturer": "DON DON d.o.o. Beograd",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300105654_1.jpg?1591096298",
+        "thumbnail_image_path": "images/products/300/300105654_1s.jpg?1591096298",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60152499,
+                "image_n": "images/products/300/300105654_1.jpg?1591096298",
+                "image_s": "images/products/300/300105654_1s.jpg?1591096298",
+                "image_m": "images/products/300/300105654_1m.jpg?1591096298",
+                "image_l": "images/products/300/300105654_1l.jpg?1591096298"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787265,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8605002323175"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "191,96 Din/Kg",
+        "price": {
+            "amount": 4799,
+            "currency": "Din",
+            "formatted_price": "47,99 Din"
+        },
+        "netto_weight_statement": "250g",
+        "storage_instruction": "Čuvati na suvom mestu i sobnoj temperaturi.",
+        "origin_statement": "Republika Srbija",
+        "ingredients_statement": "Mleveni osušeni hleb (pšenično belo brašno tip ˝500˝, pšenično polubelo brašno tip ˝700˝, pekarski kvasac, kuhinjska so, suncokretovo ulje, emulgator E472e; antioksidans E300; enzimi). Može da sadrži susam u tragovima.",
+        "allergens_statement": "Pšenično belo brašno tip ˝500˝, pšenično polubelo brašno tip ˝700˝. Može da sadrži susam u tragovima.",
+        "variant_description": "ambalaža-kesa",
+        "manufacturer_address": "Bulevar Zorana Đinđića 144b, 11070 Novi Beograd, Republika Srbija; proizvodna jedinica Fidelinka Pekara Subotica, Čantavirski put 1, Subotica, Republika Srbija.",
+        "contact_person": "Mercator-S d.o.o.",
+        "contact_person_address": "Temerinski put 50, Novi Sad",
+        "minimum_lifespan_from_time_of_production": "utisnuto na ambalaži",
+        "nutrients": [
+            {
+                "code": "ENER-",
+                "value": {
+                    "100": "1567 kJ/370 kcal"
+                }
+            },
+            {
+                "code": "FAT",
+                "value": {
+                    "100": "1.9g"
+                }
+            },
+            {
+                "code": "FASAT",
+                "value": {
+                    "100": "0.7g"
+                }
+            },
+            {
+                "code": "CHOAVL",
+                "value": {
+                    "100": "74.7g"
+                }
+            },
+            {
+                "code": "SUGAR-",
+                "value": {
+                    "100": "3.1g"
+                }
+            },
+            {
+                "code": "FIBTG",
+                "value": {
+                    "100": "3.4g"
+                }
+            },
+            {
+                "code": "PRO-",
+                "value": {
+                    "100": "11.7g"
+                }
+            },
+            {
+                "code": "GLUCNB",
+                "value": {
+                    "100": "1.72g"
+                }
+            }
+        ],
+        "favorite": false
+    },
+    {
+        "id": 60035989,
+        "code": "303104959",
+        "name": "Sanja domaće tanke kore za pite 500g",
+        "keyword": "sanja-domace-tanke-kore-za-pite-500g",
+        "video": null,
+        "description": "Domaće tanke kore za pite",
+        "short_description": null,
+        "product_path": "/products/60035989/sanja-domace-tanke-kore-za-pite-500g",
+        "product_details_path": "/products/60035989",
+        "manufacturer": "Preduzeće za proizvodnju, trgovinu i usluge \"Sanja\" d.o.o.",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/303/303104959_1.JPG?1500012695",
+        "thumbnail_image_path": "images/products/303/303104959_1s.JPG?1500012695",
+        "categories": [
+            {
+                "id": 60007881,
+                "name": "Testa",
+                "category_path": "/categories/60007881/testa",
+                "keyword": "testa"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60144882,
+                "image_n": "images/products/303/303104959_1.JPG?1500012695",
+                "image_s": "images/products/303/303104959_1s.JPG?1500012695",
+                "image_m": "images/products/303/303104959_1m.JPG?1500012695",
+                "image_l": "images/products/303/303104959_1l.JPG?1500012695"
+            },
+            {
+                "id": 60144881,
+                "image_n": "images/products/303/303104959_2.JPG?1500012695",
+                "image_s": "images/products/303/303104959_2s.JPG?1500012695",
+                "image_m": "images/products/303/303104959_2m.JPG?1500012695",
+                "image_l": "images/products/303/303104959_2l.JPG?1500012695"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62782977,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8600102868021"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "189,98 Din/Kg",
+        "price": {
+            "amount": 9499,
+            "currency": "Din",
+            "formatted_price": "94,99 Din"
+        },
+        "netto_weight_statement": "500g",
+        "storage_instruction": "Na temperaturi do +2- +8°C",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "Pšenično brašno TIP 500, so, konzervans (E202-0,02%)",
+        "allergens_statement": "Proizvod sadrži gluten.",
+        "manufacturer_address": "24000 Subotica Ivana Kvale 4, Srbija",
+        "contact_person": "Preduzeće za proizvodnju, trgovinu i usluge \"Sanja\" d.o.o.",
+        "contact_person_address": "24000 Subotica Ivana Kvale 4, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označen na ambalaži.",
+        "preparation_instruction": "Na sobnoj temperaturi staviti nadev po želji. ",
+        "nutrients": [
+            {
+                "code": "ENER-",
+                "value": {
+                    "100": "1167/275,2"
+                }
+            },
+            {
+                "code": "FAT",
+                "value": {
+                    "100": "0.88"
+                }
+            },
+            {
+                "code": "FASAT",
+                "value": {
+                    "100": "0.17"
+                }
+            },
+            {
+                "code": "CHOAVL",
+                "value": {
+                    "100": "56.75"
+                }
+            },
+            {
+                "code": "SUGAR-",
+                "value": {
+                    "100": "3.75"
+                }
+            },
+            {
+                "code": "SALTEQ",
+                "value": {
+                    "100": "3.15"
+                }
+            },
+            {
+                "code": "GLUCNB",
+                "value": {
+                    "100": "8.5"
+                }
+            },
+            {
+                "code": "F18D3N3",
+                "value": {
+                    "100": "1"
+                }
+            }
+        ],
+        "favorite": false
+    },
+    {
+        "id": 60074248,
+        "code": "300105724",
+        "name": "t5m hleb tost tamni 500g t5m",
+        "keyword": "t5m-hleb-tost-tamni-500g-t5m",
+        "video": null,
+        "description": null,
+        "short_description": null,
+        "product_path": "/products/60074248/t5m-hleb-tost-tamni-500g-t5m",
+        "product_details_path": "/products/60074248",
+        "manufacturer": "DON DON DOO",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300105724_1.jpg?1508483451",
+        "thumbnail_image_path": "images/products/300/300105724_1s.jpg?1508483451",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60161044,
+                "image_n": "images/products/300/300105724_1.jpg?1508483451",
+                "image_s": "images/products/300/300105724_1s.jpg?1508483451",
+                "image_m": "images/products/300/300105724_1m.jpg?1508483451",
+                "image_l": "images/products/300/300105724_1l.jpg?1508483451"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787560,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606018730414"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "269,98 Din/Kg",
+        "price": {
+            "amount": 13499,
+            "currency": "Din",
+            "formatted_price": "134,99 Din"
+        },
+        "favorite": false
+    },
+    {
+        "id": 60038504,
+        "code": "303104990",
+        "name": "Sanja heljdine kore za pite 500g",
+        "keyword": "sanja-heljdine-kore-za-pite-500g",
+        "video": null,
+        "description": "Heljdine kore za pitu.",
+        "short_description": null,
+        "product_path": "/products/60038504/sanja-heljdine-kore-za-pite-500g",
+        "product_details_path": "/products/60038504",
+        "manufacturer": "Preduzeće za proizvodnju, trgovinu i usluge \"Sanja\" d.o.o.",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/303/303104990_1.JPG?1500012697",
+        "thumbnail_image_path": "images/products/303/303104990_1s.JPG?1500012697",
+        "categories": [
+            {
+                "id": 60008379,
+                "name": "Hleb",
+                "category_path": "/categories/60008379/hleb",
+                "keyword": "hleb"
+            },
+            {
+                "id": 60008378,
+                "name": "Hleb kaše i pahuljice",
+                "category_path": "/categories/60008378/hleb-kase-i-pahuljice",
+                "keyword": "hleb-kase-i-pahuljice"
+            },
+            {
+                "id": 60008342,
+                "name": "IDEA organic",
+                "category_path": "/categories/60008342/idea-organic",
+                "keyword": "idea-organic"
+            }
+        ],
+        "images": [
+            {
+                "id": 60149962,
+                "image_n": "images/products/303/303104990_1.JPG?1500012697",
+                "image_s": "images/products/303/303104990_1s.JPG?1500012697",
+                "image_m": "images/products/303/303104990_1m.JPG?1500012697",
+                "image_l": "images/products/303/303104990_1l.JPG?1500012697"
+            },
+            {
+                "id": 60149961,
+                "image_n": "images/products/303/303104990_2.JPG?1500012697",
+                "image_s": "images/products/303/303104990_2s.JPG?1500012697",
+                "image_m": "images/products/303/303104990_2m.JPG?1500012697",
+                "image_l": "images/products/303/303104990_2l.JPG?1500012697"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62786977,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8600102868212"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "289,98 Din/Kg",
+        "price": {
+            "amount": 14499,
+            "currency": "Din",
+            "formatted_price": "144,99 Din"
+        },
+        "netto_weight_statement": "500g",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "Pšenično brašno TIP 500, heljdino brašno, voda, konzervans (E202)",
+        "allergens_statement": "Proizvod sadrži gluten.",
+        "manufacturer_address": "24000 Subotica Ivana Kvale 4, Srbija",
+        "contact_person": "Preduzeće za proizvodnju, trgovinu i usluge \"Sanja\" d.o.o.",
+        "contact_person_address": "24000 Subotica Ivana Kvale 4, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označen na ambalaži.",
+        "nutrients": [
+            {
+                "code": "ENER-",
+                "value": {
+                    "100": "1164/274,7"
+                }
+            },
+            {
+                "code": "FAT",
+                "value": {
+                    "100": "0.9"
+                }
+            },
+            {
+                "code": "FASAT",
+                "value": {
+                    "100": "0.3"
+                }
+            },
+            {
+                "code": "CHOAVL",
+                "value": {
+                    "100": "55.69"
+                }
+            },
+            {
+                "code": "SUGAR-",
+                "value": {
+                    "100": "4.18"
+                }
+            },
+            {
+                "code": "SALTEQ",
+                "value": {
+                    "100": "8.81"
+                }
+            }
+        ],
+        "favorite": false
+    },
+    {
+        "id": 60005255,
+        "code": "300104708",
+        "name": "Hleb&Kifle tost hleb raženi sa semenkama 0.3kg",
+        "keyword": "hleb-kifle-tost-hleb-razeni-sa-semenkama-0-3kg",
+        "video": null,
+        "description": "Raženi tost sa semenkama. Specijalna vrsta hleba. Hleb produžene svežine i trajnosti",
+        "short_description": null,
+        "product_path": "/products/60005255/hleb-kifle-tost-hleb-razeni-sa-semenkama-0-3kg",
+        "product_details_path": "/products/60005255",
+        "manufacturer": "Ishrana d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300104708_1.jpg?1500012357",
+        "thumbnail_image_path": "images/products/300/300104708_1s.jpg?1500012357",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60118545,
+                "image_n": "images/products/300/300104708_1.jpg?1500012357",
+                "image_s": "images/products/300/300104708_1s.jpg?1500012357",
+                "image_m": "images/products/300/300104708_1m.jpg?1500012357",
+                "image_l": "images/products/300/300104708_1l.jpg?1500012357"
+            },
+            {
+                "id": 60118544,
+                "image_n": "images/products/300/300104708_2.jpg?1500012357",
+                "image_s": "images/products/300/300104708_2s.jpg?1500012357",
+                "image_m": "images/products/300/300104708_2m.jpg?1500012357",
+                "image_l": "images/products/300/300104708_2l.jpg?1500012357"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787817,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606006780643"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "416,62 Din/Kg",
+        "price": {
+            "amount": 12499,
+            "currency": "Din",
+            "formatted_price": "124,99 Din"
+        },
+        "netto_weight_statement": "0.3kg",
+        "storage_instruction": "Čuvati na sobnoj temperaturi.",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "pšenično brašno, jasko smeša (zrno soje, pšenično brašno, lan, raženo brašno, ražena prekrupa, so, gluten, sojino brašno, dekstroza, sladni ekstrakt, pšenično sladno brašno, kiselina E330, antioksidans E300, emulgator E472e, regulator kiselosti E263, enzimi), raženo brašno, voda, mast, kvasac, gluten miks (p[eni;ni gluten, durum brašno, antioksidans E300), šećer, kuhinjska so, aditiv (pšenično brašno, sredstvo protiv zgrudvavanja E170, emulgator E472e, kompleks enzima, antioksidans E300), konzervans (pšenično brašno, kalcijum propionat (E282), sorbinska kiselina (E200), sredstvo protiv zgrudvavanja (E170))",
+        "manufacturer_address": "Železnička 49, Smederevo, Srbija",
+        "contact_person": "Hleb&Kifle ",
+        "contact_person_address": "Žorža Klemensoa 19, Beograd, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "favorite": false
+    },
+    {
+        "id": 60021526,
+        "code": "300105105",
+        "name": "Hleb&Kifle hleb švapski raženi 0.4kg",
+        "keyword": "hleb-kifle-hleb-svapski-razeni-0-4kg",
+        "video": null,
+        "description": null,
+        "short_description": null,
+        "product_path": "/products/60021526/hleb-kifle-hleb-svapski-razeni-0-4kg",
+        "product_details_path": "/products/60021526",
+        "manufacturer": "Ishrana d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300105105_1.jpg?1500012394",
+        "thumbnail_image_path": "images/products/300/300105105_1s.jpg?1500012394",
+        "categories": [
+            {
+                "id": 60007878,
+                "name": "Hleb pakovani",
+                "category_path": "/categories/60007878/hleb-pakovani",
+                "keyword": "hleb-pakovani"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60127916,
+                "image_n": "images/products/300/300105105_1.jpg?1500012394",
+                "image_s": "images/products/300/300105105_1s.jpg?1500012394",
+                "image_m": "images/products/300/300105105_1m.jpg?1500012394",
+                "image_l": "images/products/300/300105105_1l.jpg?1500012394"
+            },
+            {
+                "id": 60127915,
+                "image_n": "images/products/300/300105105_2.jpg?1500012394",
+                "image_s": "images/products/300/300105105_2s.jpg?1500012394",
+                "image_m": "images/products/300/300105105_2m.jpg?1500012394",
+                "image_l": "images/products/300/300105105_2l.jpg?1500012394"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62786724,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606006780841"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "499,97 Din/Kg",
+        "price": {
+            "amount": 19999,
+            "currency": "Din",
+            "formatted_price": "199,99 Din"
+        },
+        "netto_weight_statement": "0.4kg",
+        "storage_instruction": "Čuvati na sobnoj temperaturi",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "ludvig smeša (brašno raženo, starter), sladno brašno pire, integralna prekrupa pire, pšenični gluten, prženo sladno brašno, surutka, zgušnjivač E412, šećer, sladni ekstrakt (je;meni slad, voda), pšenične mekinje, emulgator E471, koncentrat grožđa, antioksidans E300, enzimi), raženo brašno, pšenično brašno, voda, gluten miks (pšenični gluten,  durum brašno, antioksidans E300), kvasac, aditiv (pšenično brašno, sredstvo protiv zgrudvavanja E300), emulgator E472e, kompels enzima, antioksidans E300), konzervans (pšenično brašno, kalcijum propionat (E282), sorbinska kiselina (E200), sredstvo protiv ygrudvavanja (E170)).",
+        "manufacturer_address": "Železnička 49, Smederevo, Srbija",
+        "contact_person": "Hleb&Kifle ",
+        "contact_person_address": "Žorža Klemensoa 19, Beograd, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "favorite": false
+    },
+    {
+        "id": 60074245,
+        "code": "300105721",
+        "name": "t5m hleb tost putero 500g  t5m",
+        "keyword": "t5m-hleb-tost-putero-500g-t5m",
+        "video": null,
+        "description": null,
+        "short_description": null,
+        "product_path": "/products/60074245/t5m-hleb-tost-putero-500g-t5m",
+        "product_details_path": "/products/60074245",
+        "manufacturer": "DON DON DOO",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300105721_1.jpg?1508483449",
+        "thumbnail_image_path": "images/products/300/300105721_1s.jpg?1508483449",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60161041,
+                "image_n": "images/products/300/300105721_1.jpg?1508483449",
+                "image_s": "images/products/300/300105721_1s.jpg?1508483449",
+                "image_m": "images/products/300/300105721_1m.jpg?1508483449",
+                "image_l": "images/products/300/300105721_1l.jpg?1508483449"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787557,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606018730391"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "309,98 Din/Kg",
+        "price": {
+            "amount": 15499,
+            "currency": "Din",
+            "formatted_price": "154,99 Din"
+        },
+        "favorite": false
+    },
+    {
+        "id": 60058300,
+        "code": "300105609",
+        "name": "Roberto hleb beli sa maslinovim uljem 400g",
+        "keyword": "roberto-hleb-beli-sa-maslinovim-uljem-400g",
+        "video": null,
+        "description": "Specijalni hleb. Hleb produžene svežine. ",
+        "short_description": null,
+        "product_path": "/products/60058300/roberto-hleb-beli-sa-maslinovim-uljem-400g",
+        "product_details_path": "/products/60058300",
+        "manufacturer": "Roberto Industra Alimentare srl",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300105609_1.jpg?1500012524",
+        "thumbnail_image_path": "images/products/300/300105609_1s.jpg?1500012524",
+        "categories": [
+            {
+                "id": 60007878,
+                "name": "Hleb pakovani",
+                "category_path": "/categories/60007878/hleb-pakovani",
+                "keyword": "hleb-pakovani"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60153572,
+                "image_n": "images/products/300/300105609_1.jpg?1500012524",
+                "image_s": "images/products/300/300105609_1s.jpg?1500012524",
+                "image_m": "images/products/300/300105609_1m.jpg?1500012524",
+                "image_l": "images/products/300/300105609_1l.jpg?1500012524"
+            },
+            {
+                "id": 60153571,
+                "image_n": "images/products/300/300105609_2.jpg?1500012524",
+                "image_s": "images/products/300/300105609_2s.jpg?1500012524",
+                "image_m": "images/products/300/300105609_2m.jpg?1500012524",
+                "image_l": "images/products/300/300105609_2l.jpg?1500012524"
+            },
+            {
+                "id": 60153570,
+                "image_n": "images/products/300/300105609_3.jpg?1500012525",
+                "image_s": "images/products/300/300105609_3s.jpg?1500012525",
+                "image_m": "images/products/300/300105609_3m.jpg?1500012525",
+                "image_l": "images/products/300/300105609_3l.jpg?1500012525"
+            },
+            {
+                "id": 60153569,
+                "image_n": "images/products/300/300105609_4.jpg?1500012525",
+                "image_s": "images/products/300/300105609_4s.jpg?1500012525",
+                "image_m": "images/products/300/300105609_4m.jpg?1500012525",
+                "image_l": "images/products/300/300105609_4l.jpg?1500012525"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62765497,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8003490037800"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "462,47 Din/Kg",
+        "price": {
+            "amount": 18499,
+            "currency": "Din",
+            "formatted_price": "184,99 Din"
+        },
+        "contact_person_address": "Cvijićeva 60, Beograd, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "netto_weight_statement": "400g",
+        "storage_instruction": "Čuvati na hladnom i suvom mestu.",
+        "origin_statement": "Italija",
+        "ingredients_statement": "meko pšenično brašno tip \"0\", voda, maslinovo ulje (2.5%), prirodni kvasac, dekstroza, so, pšenični slad. Tretirano etil alkoholom.",
+        "allergens_statement": "Može sadržati tragove soje. Proizvedeno u pogonu gde se koriste seme susama i ulja od kikirikija.",
+        "manufacturer_address": "Via dei Colli 145, Susegana (TV), Italija",
+        "contact_person": "Trampex d.o.o",
+        "nutrients": [
+            {
+                "code": "ENER-",
+                "value": {
+                    "100": "1181kJ/280 kcal"
+                }
+            },
+            {
+                "code": "FAT",
+                "value": {
+                    "100": "5.1g",
+                    "portion": "0.03"
+                }
+            },
+            {
+                "code": "FASAT",
+                "value": {
+                    "100": "2.1g",
+                    "portion": "0.02"
+                }
+            },
+            {
+                "code": "FAMSCIS",
+                "value": {
+                    "portion": "0.02"
+                }
+            },
+            {
+                "code": "CHOAVL",
+                "value": {
+                    "100": "48.4g"
+                }
+            },
+            {
+                "code": "SUGAR-",
+                "value": {
+                    "100": "3.4g",
+                    "portion": "0.04"
+                }
+            },
+            {
+                "code": "STARCH",
+                "value": {
+                    "portion": "0.01"
+                }
+            },
+            {
+                "code": "FIBTG",
+                "value": {
+                    "100": "3.1g"
+                }
+            },
+            {
+                "code": "SALTEQ",
+                "value": {
+                    "100": "8.5g"
+                }
+            },
+            {
+                "code": "GLUCNB",
+                "value": {
+                    "100": "1.4g"
+                }
+            },
+            {
+                "code": "CU",
+                "value": {
+                    "portion": "0.04"
+                }
+            },
+            {
+                "code": "THIA",
+                "value": {
+                    "portion": "0.05"
+                }
+            }
+        ],
+        "favorite": false
+    },
+    {
+        "id": 60000918,
+        "code": "300104902",
+        "name": "Tvojih 5 minuta carski hleb pakovanje 300g",
+        "keyword": "tvojih-5-minuta-carski-hleb-pakovanje-300g",
+        "video": null,
+        "description": "HLEB - 300",
+        "short_description": null,
+        "product_path": "/products/60000918/tvojih-5-minuta-carski-hleb-pakovanje-300g",
+        "product_details_path": "/products/60000918",
+        "manufacturer": "DON DON DOO",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300104902_1.jpg?1605089713",
+        "thumbnail_image_path": "images/products/300/300104902_1s.jpg?1605089713",
+        "categories": [
+            {
+                "id": 60007878,
+                "name": "Hleb pakovani",
+                "category_path": "/categories/60007878/hleb-pakovani",
+                "keyword": "hleb-pakovani"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60113113,
+                "image_n": "images/products/300/300104902_1.jpg?1605089713",
+                "image_s": "images/products/300/300104902_1s.jpg?1605089713",
+                "image_m": "images/products/300/300104902_1m.jpg?1605089713",
+                "image_l": "images/products/300/300104902_1l.jpg?1605089713"
+            },
+            {
+                "id": 60113112,
+                "image_n": "images/products/300/300104902_2.jpg?1500012360",
+                "image_s": "images/products/300/300104902_2s.jpg?1500012360",
+                "image_m": "images/products/300/300104902_2m.jpg?1500012360",
+                "image_l": "images/products/300/300104902_2l.jpg?1500012360"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62786528,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606106189018"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "399,96 Din/Kg",
+        "price": {
+            "amount": 11999,
+            "currency": "Din",
+            "formatted_price": "119,99 Din"
+        },
+        "netto_weight_statement": "HLEB CARSKI PAK 300G TVOJIH 5 MINUT",
+        "drained_weight": "PEKARSKI PROIZVODI - SP",
+        "ingredients_statement": "HLEB PAKOVANI - S07",
+        "additives_statement": "#N/A",
+        "favorite": false
+    },
+    {
+        "id": 60011855,
+        "code": "300104417",
+        "name": "Hleb&Kifle tost hleb mlečni 0.5kg",
+        "keyword": "hleb-kifle-tost-hleb-mlecni-0-5kg",
+        "video": null,
+        "description": "Mlečni tost. Specijalna vrsta hleb. Hleb produžene svežine i tajnosti",
+        "short_description": null,
+        "product_path": "/products/60011855/hleb-kifle-tost-hleb-mlecni-0-5kg",
+        "product_details_path": "/products/60011855",
+        "manufacturer": "Ishrana d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300104417_1.jpg?1500012346",
+        "thumbnail_image_path": "images/products/300/300104417_1s.jpg?1500012346",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60123354,
+                "image_n": "images/products/300/300104417_1.jpg?1500012346",
+                "image_s": "images/products/300/300104417_1s.jpg?1500012346",
+                "image_m": "images/products/300/300104417_1m.jpg?1500012346",
+                "image_l": "images/products/300/300104417_1l.jpg?1500012346"
+            },
+            {
+                "id": 60123353,
+                "image_n": "images/products/300/300104417_2.jpg?1500012346",
+                "image_s": "images/products/300/300104417_2s.jpg?1500012346",
+                "image_m": "images/products/300/300104417_2m.jpg?1500012346",
+                "image_l": "images/products/300/300104417_2l.jpg?1500012346"
+            }
+        ],
+        "icons": [
+            {
+                "type": "offer",
+                "name": "",
+                "image": {
+                    "media_device": "/assets/icons/offer_media_device-db636ca0bbb5facb3daa386c2480bb4b.png",
+                    "mobile": "/assets/icons/offer_mobile-5bc4111c7e618646da9558deeaa68620.png"
+                }
+            }
+        ],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787814,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606006780605"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "309,98 Din/Kg",
+        "offer": {
+            "id": 61644734,
+            "offer_category_id": 60034065,
+            "type": "DiscountByPrice",
+            "start_on": "15.02.2021.",
+            "end_on": "13.03.2021.",
+            "order_of": 0,
+            "is_mpc": false,
+            "offer_percentage": 8,
+            "price": {
+                "amount": 15499,
+                "currency": "Din",
+                "formatted_price": "154,99 Din"
+            },
+            "original_price": {
+                "amount": 16999,
+                "currency": "Din",
+                "formatted_price": "169,99 Din"
+            },
+            "price_difference": {
+                "amount": 1500,
+                "currency": "Din",
+                "formatted_price": "15,00 Din"
+            },
+            "shop_types_supported": null,
+            "web_available_only": false
+        },
+        "price": {
+            "amount": 15499,
+            "currency": "Din",
+            "formatted_price": "154,99 Din"
+        },
+        "netto_weight_statement": "0.5kg",
+        "storage_instruction": "Čuvati na sobnoj temperaturi.",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "pšenično brašno T 500, voda, mleko u prahu, margarin (biljna mast, biljno ulje, voda, emulgatori (Е471, Е322), kuhinjska so (kristali natrijum hlorida, kalijum jodat, sredstvo protiv zgrudvavanja E536), kiseline (E270, E330), konzervans E202, aroma), kvasac, šećer, konzervans (pšenično brašno, sredstvo protiv zgrudvavanja (E170), kalcijum propionat (E282), sorbinska kiselina (E200), regulator kiselosti (E262ii), fermentisano pšenično brašno, so), kuhinjska so, gluten miks (pšenični gluten, durum brašno, antioksidans E300), aditiv (emulgator (E471, E481), pšenično brašno, sredstvo protiv zgrudvavanja (E170), antioksidans (E300), enzimi), sirće",
+        "manufacturer_address": "Železnička 49, Smederevo, Srbija",
+        "contact_person": "Hleb&Kifle ",
+        "contact_person_address": "Žorža Klemensoa 19, Beograd, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "favorite": false
+    },
+    {
+        "id": 60010722,
+        "code": "300104967",
+        "name": "Hleb tost 500g K plus",
+        "keyword": "hleb-tost-500g-k-plus",
+        "video": null,
+        "description": "",
+        "short_description": null,
+        "product_path": "/products/60010722/hleb-tost-500g-k-plus",
+        "product_details_path": "/products/60010722",
+        "manufacturer": "DON DON d.o.o.",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300104967_1.jpg?1591096296",
+        "thumbnail_image_path": "images/products/300/300104967_1s.jpg?1591096296",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60124439,
+                "image_n": "images/products/300/300104967_1.jpg?1591096296",
+                "image_s": "images/products/300/300104967_1s.jpg?1591096296",
+                "image_m": "images/products/300/300104967_1m.jpg?1591096296",
+                "image_l": "images/products/300/300104967_1l.jpg?1591096296"
+            }
+        ],
+        "icons": [
+            {
+                "type": "offer",
+                "name": "",
+                "image": {
+                    "media_device": "/assets/icons/offer_media_device-db636ca0bbb5facb3daa386c2480bb4b.png",
+                    "mobile": "/assets/icons/offer_mobile-5bc4111c7e618646da9558deeaa68620.png"
+                }
+            }
+        ],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787781,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8605002309049"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "139,98 Din/Kg",
+        "offer": {
+            "id": 61675022,
+            "offer_category_id": 60034088,
+            "type": "DiscountByPrice",
+            "start_on": "15.02.2021.",
+            "end_on": "14.03.2021.",
+            "order_of": 0,
+            "is_mpc": false,
+            "offer_percentage": 12,
+            "price": {
+                "amount": 6999,
+                "currency": "Din",
+                "formatted_price": "69,99 Din"
+            },
+            "original_price": {
+                "amount": 7999,
+                "currency": "Din",
+                "formatted_price": "79,99 Din"
+            },
+            "price_difference": {
+                "amount": 1000,
+                "currency": "Din",
+                "formatted_price": "10,00 Din"
+            },
+            "shop_types_supported": null,
+            "web_available_only": false
+        },
+        "price": {
+            "amount": 6999,
+            "currency": "Din",
+            "formatted_price": "69,99 Din"
+        },
+        "netto_weight_statement": "500g",
+        "storage_instruction": "Čuvati na suvom i hladnom mestu.",
+        "origin_statement": "Republika Srbija",
+        "ingredients_statement": "Pšenično brašno T-500 (59%), voda, šećer, kvasac, pšenični griz, suncokretovo ulje, kuhinjska so, ražano kiselo testo, sirćetna kiselina, mlečna kiselina, konzervansi (E282, E200), emulgatori (E471, E481), enzimi, antioksidans E300. Proizvod može da sadrži jaja, soju, mleko, jezgrasto voće i susam u tragovima.",
+        "allergens_statement": "Pšenično brašno. Proizvod može da sadrži jaja, soju, mleko, jezgrasto voće i susam u tragovima.",
+        "variant_description": "ambalaža-kesa",
+        "manufacturer_address": "Bul Zorana Đinđića 114b, 11070 Novi Beograd, Ogranak-Pekara Kragujevac, Vojvode Putnika 70, 34000 Kragujevac",
+        "contact_person": "Mercator-S d.o.o.",
+        "contact_person_address": "Temerinski put 50, Novi Sad",
+        "minimum_lifespan_from_time_of_production": "utisnuto na ambalaži",
+        "nutrients": [
+            {
+                "code": "ENER-",
+                "value": {
+                    "100": "1162kJ / 262 kcal"
+                }
+            },
+            {
+                "code": "FAT",
+                "value": {
+                    "100": "2.67g"
+                }
+            },
+            {
+                "code": "FASAT",
+                "value": {
+                    "100": "0.46g"
+                }
+            },
+            {
+                "code": "CHOAVL",
+                "value": {
+                    "100": "51.63g"
+                }
+            },
+            {
+                "code": "SUGAR-",
+                "value": {
+                    "100": "5.43g"
+                }
+            },
+            {
+                "code": "FIBTG",
+                "value": {
+                    "100": "2.44g"
+                }
+            },
+            {
+                "code": "PRO-",
+                "value": {
+                    "100": "7.62g"
+                }
+            },
+            {
+                "code": "GLUCNB",
+                "value": {
+                    "100": "1.28g"
+                }
+            }
+        ],
+        "favorite": false
+    },
+    {
+        "id": 60005162,
+        "code": "303104864",
+        "name": "Linco kvasac 42g",
+        "keyword": "linco-kvasac-42g",
+        "video": null,
+        "description": "Sveži pekarski kvasac",
+        "short_description": null,
+        "product_path": "/products/60005162/linco-kvasac-42g",
+        "product_details_path": "/products/60005162",
+        "manufacturer": "F.X. WIENINGER",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/303/303104864_1.JPG?1500012689",
+        "thumbnail_image_path": "images/products/303/303104864_1s.JPG?1500012689",
+        "categories": [
+            {
+                "id": 60007881,
+                "name": "Testa",
+                "category_path": "/categories/60007881/testa",
+                "keyword": "testa"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60118421,
+                "image_n": "images/products/303/303104864_1.JPG?1500012689",
+                "image_s": "images/products/303/303104864_1s.JPG?1500012689",
+                "image_m": "images/products/303/303104864_1m.JPG?1500012689",
+                "image_l": "images/products/303/303104864_1l.JPG?1500012689"
+            },
+            {
+                "id": 60118420,
+                "image_n": "images/products/303/303104864_2.JPG?1500012689",
+                "image_s": "images/products/303/303104864_2s.JPG?1500012689",
+                "image_m": "images/products/303/303104864_2m.JPG?1500012689",
+                "image_l": "images/products/303/303104864_2l.JPG?1500012689"
+            },
+            {
+                "id": 60118419,
+                "image_n": "images/products/303/303104864_3.JPG?1500012689",
+                "image_s": "images/products/303/303104864_3s.JPG?1500012689",
+                "image_m": "images/products/303/303104864_3m.JPG?1500012689",
+                "image_l": "images/products/303/303104864_3l.JPG?1500012689"
+            },
+            {
+                "id": 60118418,
+                "image_n": "images/products/303/303104864_4.JPG?1500012689",
+                "image_s": "images/products/303/303104864_4s.JPG?1500012689",
+                "image_m": "images/products/303/303104864_4m.JPG?1500012689",
+                "image_l": "images/products/303/303104864_4l.JPG?1500012689"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62786481,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": [
+            "4003834000600",
+            "4003834000709",
+            "42200598",
+            "4101710060424"
+        ],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "714,04 Din/Kg",
+        "price": {
+            "amount": 2999,
+            "currency": "Din",
+            "formatted_price": "29,99 Din"
+        },
+        "netto_weight_statement": "42g",
+        "storage_instruction": "Čuvati na temperaturi od +2°C do +7°C. ",
+        "contact_person": "Silbo d.o.o.",
+        "contact_person_address": "M.Z. Radosavljevića 319m, Batajnica, Srbija.",
+        "minimum_lifespan_from_time_of_production": "Označen na ambalaži.",
+        "favorite": false
+    },
+    {
+        "id": 60010620,
+        "code": "164049978",
+        "name": "Hleb&Kifle tost hleb beli 0.5kg",
+        "keyword": "hleb-kifle-tost-hleb-beli-0-5kg",
+        "video": null,
+        "description": "Beli tost. Soft tost. Specijalna vrsta hleb. Hleb produžene svežine i tajnosti",
+        "short_description": null,
+        "product_path": "/products/60010620/hleb-kifle-tost-hleb-beli-0-5kg",
+        "product_details_path": "/products/60010620",
+        "manufacturer": "Ishrana d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/164/164049978_1.jpg?1500011092",
+        "thumbnail_image_path": "images/products/164/164049978_1s.jpg?1500011092",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60124048,
+                "image_n": "images/products/164/164049978_1.jpg?1500011092",
+                "image_s": "images/products/164/164049978_1s.jpg?1500011092",
+                "image_m": "images/products/164/164049978_1m.jpg?1500011092",
+                "image_l": "images/products/164/164049978_1l.jpg?1500011092"
+            },
+            {
+                "id": 60124047,
+                "image_n": "images/products/164/164049978_2.jpg?1500011092",
+                "image_s": "images/products/164/164049978_2s.jpg?1500011092",
+                "image_m": "images/products/164/164049978_2m.jpg?1500011092",
+                "image_l": "images/products/164/164049978_2l.jpg?1500011092"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62786070,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8600101187079"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "309,98 Din/Kg",
+        "price": {
+            "amount": 15499,
+            "currency": "Din",
+            "formatted_price": "154,99 Din"
+        },
+        "netto_weight_statement": "0.5kg",
+        "storage_instruction": "Čuvati na sobnoj temperaturi.",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "pšenično brašno T500, voda, kvasac, ulje, šećer, kuhinjska so (kristali natrijum hlorida, kalijum jodat, sredstvo proti zgrudvavanja E536), konzervans (pšenično brašno, sredstvo protiv zgrudvavanja (E170), kalcijum propionat (E282), sorbinska kiselina (E200), regulator kiselosti (E262ii), fermentisano pšenično brašno, so), sojino brašno, aditiv (emulgator (E471, E481), pšenično brašno, sredstvo protiv zgrudvavanja E170, antioksidans (E300), enzimi), sirće, kiselo testo (pšenično brašno, voda)",
+        "manufacturer_address": "Železnička 49, Smederevo, Srbija",
+        "contact_person": "Hleb&Kifle ",
+        "contact_person_address": "Žorža Klemensoa 19, Beograd, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "favorite": false
+    },
+    {
+        "id": 60029105,
+        "code": "301105834",
+        "name": "Kplus štapići sa susamom i makom 200g",
+        "keyword": "kplus-stapici-sa-susamom-i-makom-200g",
+        "video": null,
+        "description": null,
+        "short_description": null,
+        "product_path": "/products/60029105/kplus-stapici-sa-susamom-i-makom-200g",
+        "product_details_path": "/products/60029105",
+        "manufacturer": "Radnja za izradu hleba, peciva, kora i svežih kolača ˝Zrno˝",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/301/301105834_1.jpg?1583928798",
+        "thumbnail_image_path": "images/products/301/301105834_1s.jpg?1583928798",
+        "categories": [
+            {
+                "id": 60007880,
+                "name": "Peciva",
+                "category_path": "/categories/60007880/peciva",
+                "keyword": "peciva"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60137869,
+                "image_n": "images/products/301/301105834_1.jpg?1583928798",
+                "image_s": "images/products/301/301105834_1s.jpg?1583928798",
+                "image_m": "images/products/301/301105834_1m.jpg?1583928798",
+                "image_l": "images/products/301/301105834_1l.jpg?1583928798"
+            },
+            {
+                "id": 60137868,
+                "image_n": "images/products/301/301105834_2.jpg?1500012542",
+                "image_s": "images/products/301/301105834_2s.jpg?1500012542",
+                "image_m": "images/products/301/301105834_2m.jpg?1500012542",
+                "image_l": "images/products/301/301105834_2l.jpg?1500012542"
+            }
+        ],
+        "icons": [
+            {
+                "type": "offer",
+                "name": "",
+                "image": {
+                    "media_device": "/assets/icons/offer_media_device-db636ca0bbb5facb3daa386c2480bb4b.png",
+                    "mobile": "/assets/icons/offer_mobile-5bc4111c7e618646da9558deeaa68620.png"
+                }
+            }
+        ],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62779564,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8605002318157"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "499,95 Din/Kg",
+        "offer": {
+            "id": 61682113,
+            "offer_category_id": 60034166,
+            "type": "DiscountByPrice",
+            "start_on": "22.02.2021.",
+            "end_on": "07.03.2021.",
+            "order_of": 0,
+            "is_mpc": false,
+            "offer_percentage": 23,
+            "price": {
+                "amount": 9999,
+                "currency": "Din",
+                "formatted_price": "99,99 Din"
+            },
+            "original_price": {
+                "amount": 12999,
+                "currency": "Din",
+                "formatted_price": "129,99 Din"
+            },
+            "price_difference": {
+                "amount": 3000,
+                "currency": "Din",
+                "formatted_price": "30,00 Din"
+            },
+            "shop_types_supported": null,
+            "web_available_only": false
+        },
+        "price": {
+            "amount": 9999,
+            "currency": "Din",
+            "formatted_price": "99,99 Din"
+        },
+        "variant_description": "ambalaža-pvc",
+        "manufacturer_address": "Mihajla Dimića 34, Naselje Nikola Tesla 18110 Niš, Republika Srbija",
+        "contact_person": "Mercator-S d.o.o.",
+        "contact_person_address": "Temerinski put 50, Novi Sad",
+        "minimum_lifespan_from_time_of_production": "utisnuto na ambalaži",
+        "netto_weight_statement": "200g",
+        "storage_instruction": "Čuvati na sobnoj temperaturi.",
+        "origin_statement": "Republika Srbija",
+        "ingredients_statement": "Pšenično brašno, voda, biljno ulje (palmino ulje), seme susama 5%, plavi mak 1%, kuhinjska so, svež kvasac, začinska mlevena paprika.",
+        "allergens_statement": "Pšenično brašno, seme susama.",
+        "nutrients": [
+            {
+                "code": "ENER-",
+                "value": {
+                    "100": "1622 kJ/382 kcal"
+                }
+            },
+            {
+                "code": "FAT",
+                "value": {
+                    "100": "0.96g"
+                }
+            },
+            {
+                "code": "FASAT",
+                "value": {
+                    "100": "0.55g"
+                }
+            },
+            {
+                "code": "CHOAVL",
+                "value": {
+                    "100": "86.7g"
+                }
+            },
+            {
+                "code": "SUGAR-",
+                "value": {
+                    "100": "0.1g"
+                }
+            },
+            {
+                "code": "PRO-",
+                "value": {
+                    "100": "6.4g"
+                }
+            },
+            {
+                "code": "GLUCNB",
+                "value": {
+                    "100": "2.22g"
+                }
+            }
+        ],
+        "favorite": false
+    },
+    {
+        "id": 60033604,
+        "code": "300105580",
+        "name": "Hleb&Kifle tost hleb heljda 0.3kg",
+        "keyword": "hleb-kifle-tost-hleb-heljda-0-3kg",
+        "video": null,
+        "description": "Tost heljda. Specijalni hleb. Hleb produžene svežine i trajnosti.",
+        "short_description": null,
+        "product_path": "/products/60033604/hleb-kifle-tost-hleb-heljda-0-3kg",
+        "product_details_path": "/products/60033604",
+        "manufacturer": "Ishrana d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300105580_1.jpg?1500012522",
+        "thumbnail_image_path": "images/products/300/300105580_1s.jpg?1500012522",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60135671,
+                "image_n": "images/products/300/300105580_1.jpg?1500012522",
+                "image_s": "images/products/300/300105580_1s.jpg?1500012522",
+                "image_m": "images/products/300/300105580_1m.jpg?1500012522",
+                "image_l": "images/products/300/300105580_1l.jpg?1500012522"
+            },
+            {
+                "id": 60135670,
+                "image_n": "images/products/300/300105580_2.jpg?1500012523",
+                "image_s": "images/products/300/300105580_2s.jpg?1500012523",
+                "image_m": "images/products/300/300105580_2m.jpg?1500012523",
+                "image_l": "images/products/300/300105580_2l.jpg?1500012523"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787050,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606006780988"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "433,29 Din/Kg",
+        "price": {
+            "amount": 12999,
+            "currency": "Din",
+            "formatted_price": "129,99 Din"
+        },
+        "netto_weight_statement": "0.3kg",
+        "storage_instruction": "Čuvati na sobnoj temperaturi.",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "pšenično brašno, voda, heljdina krupica, biljne masnoće, lecitin, ražano brašno, ražana prekrupa, zdrobljeno zrno soje, lan, pšenični gluten, sojino brašno, dekstroza, sladni ekstrakt, pšenično sladno brašno, integralno heljdino brašno, mast, kvasac, durum brašno, kuhinjska so, šećer, kiselina E330, antioksidans E300, amulgator E472e, regulator kiselosti E263, enzimi, sredstvo protiv zgrudvavanja (E170), kalcijum propionat (E282), sorbinska kiselina (E200), regulator kiselosti (E262ii), emulgator (E471, E481), sredstvo protiv zgrudvavanja (E170)",
+        "manufacturer_address": "Železnička 49, Smederevo, Srbija",
+        "contact_person": "Hleb&Kifle ",
+        "contact_person_address": "Žorža Klemensoa 19, Beograd, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "favorite": false
+    },
+    {
+        "id": 60003890,
+        "code": "300104535",
+        "name": "Hleb&Kifle integralni hleb 0.4kg",
+        "keyword": "hleb-kifle-integralni-hleb-0-4kg",
+        "video": null,
+        "description": "Specijalna vrsta hleba. Hleb produžene svežine i trajnosti. ",
+        "short_description": null,
+        "product_path": "/products/60003890/hleb-kifle-integralni-hleb-0-4kg",
+        "product_details_path": "/products/60003890",
+        "manufacturer": "Ishrana d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300104535_1.jpg?1524737427",
+        "thumbnail_image_path": "images/products/300/300104535_1s.jpg?1524737427",
+        "categories": [
+            {
+                "id": 60007878,
+                "name": "Hleb pakovani",
+                "category_path": "/categories/60007878/hleb-pakovani",
+                "keyword": "hleb-pakovani"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60116902,
+                "image_n": "images/products/300/300104535_1.jpg?1524737427",
+                "image_s": "images/products/300/300104535_1s.jpg?1524737427",
+                "image_m": "images/products/300/300104535_1m.jpg?1524737427",
+                "image_l": "images/products/300/300104535_1l.jpg?1524737427"
+            }
+        ],
+        "icons": [
+            {
+                "type": "offer",
+                "name": "",
+                "image": {
+                    "media_device": "/assets/icons/offer_media_device-db636ca0bbb5facb3daa386c2480bb4b.png",
+                    "mobile": "/assets/icons/offer_mobile-5bc4111c7e618646da9558deeaa68620.png"
+                }
+            }
+        ],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62744411,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606006781312"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "337,47 Din/Kg",
+        "offer": {
+            "id": 61644748,
+            "offer_category_id": 60034065,
+            "type": "DiscountByPrice",
+            "start_on": "15.02.2021.",
+            "end_on": "13.03.2021.",
+            "order_of": 0,
+            "is_mpc": false,
+            "offer_percentage": 10,
+            "price": {
+                "amount": 13499,
+                "currency": "Din",
+                "formatted_price": "134,99 Din"
+            },
+            "original_price": {
+                "amount": 14999,
+                "currency": "Din",
+                "formatted_price": "149,99 Din"
+            },
+            "price_difference": {
+                "amount": 1500,
+                "currency": "Din",
+                "formatted_price": "15,00 Din"
+            },
+            "shop_types_supported": null,
+            "web_available_only": false
+        },
+        "price": {
+            "amount": 13499,
+            "currency": "Din",
+            "formatted_price": "134,99 Din"
+        },
+        "netto_weight_statement": "0.4kg",
+        "storage_instruction": "Čuvati na sobnoj temperaturi.",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "pšenično graham brašno, voda, ražano brašno, kvasac, kuhinjska so, pšenični gluten, durum brašno, fermentisano pšenično brašno, sredstvo protiv zgrudvavanja (E170), kalcijum propionat (E282), sorbinska kiselina (E200), regulator kiselosti (E262ii), emulgator (E471, E481, E472e), enzimi, antioksidans E300",
+        "manufacturer_address": "Železnička 49, Smederevo, Srbija",
+        "contact_person": "Hleb&Kifle ",
+        "contact_person_address": "Žorža Klemensoa 19, Beograd, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "favorite": false
+    },
+    {
+        "id": 60068715,
+        "code": "300105660",
+        "name": "K plus tost hleb tamni sa susamom 500g",
+        "keyword": "k-plus-tost-hleb-tamni-sa-susamom-500g",
+        "video": null,
+        "description": null,
+        "short_description": null,
+        "product_path": "/products/60068715/k-plus-tost-hleb-tamni-sa-susamom-500g",
+        "product_details_path": "/products/60068715",
+        "manufacturer": "DON DON d.o.o. Beograd",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300105660_1.jpg?1591096299",
+        "thumbnail_image_path": "images/products/300/300105660_1s.jpg?1591096299",
+        "categories": [
+            {
+                "id": 60007882,
+                "name": "Tost, dvopek I prezle",
+                "category_path": "/categories/60007882/tost-dvopek-i-prezle",
+                "keyword": "tost-dvopek-i-prezle"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60152500,
+                "image_n": "images/products/300/300105660_1.jpg?1591096299",
+                "image_s": "images/products/300/300105660_1s.jpg?1591096299",
+                "image_m": "images/products/300/300105660_1m.jpg?1591096299",
+                "image_l": "images/products/300/300105660_1l.jpg?1591096299"
+            }
+        ],
+        "icons": [
+            {
+                "type": "offer",
+                "name": "",
+                "image": {
+                    "media_device": "/assets/icons/offer_media_device-db636ca0bbb5facb3daa386c2480bb4b.png",
+                    "mobile": "/assets/icons/offer_mobile-5bc4111c7e618646da9558deeaa68620.png"
+                }
+            }
+        ],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787266,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8605002323250"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "139,98 Din/Kg",
+        "offer": {
+            "id": 61674944,
+            "offer_category_id": 60034088,
+            "type": "DiscountByPrice",
+            "start_on": "15.02.2021.",
+            "end_on": "14.03.2021.",
+            "order_of": 0,
+            "is_mpc": false,
+            "offer_percentage": 12,
+            "price": {
+                "amount": 6999,
+                "currency": "Din",
+                "formatted_price": "69,99 Din"
+            },
+            "original_price": {
+                "amount": 7999,
+                "currency": "Din",
+                "formatted_price": "79,99 Din"
+            },
+            "price_difference": {
+                "amount": 1000,
+                "currency": "Din",
+                "formatted_price": "10,00 Din"
+            },
+            "shop_types_supported": null,
+            "web_available_only": false
+        },
+        "price": {
+            "amount": 6999,
+            "currency": "Din",
+            "formatted_price": "69,99 Din"
+        },
+        "manufacturer_address": "Bulevar Zorana Đinđića 144b, 11070 Novi Beograd, Ogranak-Pekara Kragujevac, Vojvode Putnika 70, 34000 Kragujevac, Republika Srbija.",
+        "contact_person": "Mercator-S d.o.o.",
+        "contact_person_address": "Temerinski put 50, Novi Sad",
+        "minimum_lifespan_from_time_of_production": "utisnuto na ambalaži",
+        "netto_weight_statement": "500g",
+        "storage_instruction": "Čuvati na suvom i hladnom mestu.",
+        "origin_statement": "Republika Srbija",
+        "ingredients_statement": "Pšenično brašno T 500, voda, seme suncokreta, šećer, kvasac, susam 1.7%,  pšenični griz, suncokretovo ulje, kuhinjska so, ječmeno sladno brašno, ražano kiselo testo, sirćetna kiselina, mlečna kiselina, konzervansi (E282, E200), emulgatori (E471, E481), enzimi, antioksidans E300. Proizvod može da sadrži jaja, soju, mleko, jezgrasto voće i susam u tragovima.",
+        "allergens_statement": "Pšenično brašno T-500, susam 1.7%, pšenični griz, ječmeno sladno brašno, razano kiselo testo. Proizvod može da sadrži jaja, soju, mleko, jezgrasto voće i susam u tragovima.",
+        "variant_description": "ambalaža-kesa",
+        "nutrients": [
+            {
+                "code": "ENER-",
+                "value": {
+                    "100": "1130 kJ/267 kcal"
+                }
+            },
+            {
+                "code": "FAT",
+                "value": {
+                    "100": "3.14g"
+                }
+            },
+            {
+                "code": "FASAT",
+                "value": {
+                    "100": "0.64g"
+                }
+            },
+            {
+                "code": "CHOAVL",
+                "value": {
+                    "100": "50.75g"
+                }
+            },
+            {
+                "code": "SUGAR-",
+                "value": {
+                    "100": "7.21g"
+                }
+            },
+            {
+                "code": "FIBTG",
+                "value": {
+                    "100": "2.65g"
+                }
+            },
+            {
+                "code": "PRO-",
+                "value": {
+                    "100": "7.63g"
+                }
+            },
+            {
+                "code": "GLUCNB",
+                "value": {
+                    "100": "1.17g"
+                }
+            }
+        ],
+        "favorite": false
+    },
+    {
+        "id": 60007715,
+        "code": "300104533",
+        "name": "Hleb&Kifle hleb heljdin 0.3kg",
+        "keyword": "hleb-kifle-hleb-heljdin-0-3kg",
+        "video": null,
+        "description": "Mešani heljdin hleb. Hleb produžene svežine i trajnosti",
+        "short_description": null,
+        "product_path": "/products/60007715/hleb-kifle-hleb-heljdin-0-3kg",
+        "product_details_path": "/products/60007715",
+        "manufacturer": "Ishrana d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300104533_1.jpg?1524737427",
+        "thumbnail_image_path": "images/products/300/300104533_1s.jpg?1524737427",
+        "categories": [
+            {
+                "id": 60007878,
+                "name": "Hleb pakovani",
+                "category_path": "/categories/60007878/hleb-pakovani",
+                "keyword": "hleb-pakovani"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60129583,
+                "image_n": "images/products/300/300104533_1.jpg?1524737427",
+                "image_s": "images/products/300/300104533_1s.jpg?1524737427",
+                "image_m": "images/products/300/300104533_1m.jpg?1524737427",
+                "image_l": "images/products/300/300104533_1l.jpg?1524737427"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62787815,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606006781329"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "499,96 Din/Kg",
+        "price": {
+            "amount": 14999,
+            "currency": "Din",
+            "formatted_price": "149,99 Din"
+        },
+        "netto_weight_statement": "0.3kg",
+        "storage_instruction": "Čuvati na sobnoj temperaturi.",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "pšenično brašno, voda, heljdin koncentrat (heljdina krupica, biljne masnoće, lecitin), integralno pšenično brašno, kiselo testo (pšenično brašno, voda), gluten miks (pšenični gluten, durum brašno, antioksidans E300), kvasac, kuhinjska so (kristali natrijum hlorida, kalijum jodat, sredstvo protiv zgrudvavanja E536), konzervans (pšenično brašno, kalcijum propionat (E282), sorbinska kiselina (E200), sredstvo protiv zgrudvavanja (E170)), aditiv (pšenično brašno, sredstvo protiv zgrudvavanja E170, emulgator E472e, enzimi, antioksidans E300), aditiv (emulgator (E471, E481), pšenično brašno, sredstvo protiv zgrudvavanja (E170), antioksidans (E300), antimi",
+        "manufacturer_address": "Železnička 49, Smederevo, Srbija",
+        "contact_person": "Hleb&Kifle ",
+        "contact_person_address": "Žorža Klemensoa 19, Beograd, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "favorite": false
+    },
+    {
+        "id": 60003036,
+        "code": "301105558",
+        "name": "Hleb&Kifle puter kifla 2x70g 140g",
+        "keyword": "hleb-kifle-puter-kifla-2x70g-140g",
+        "video": null,
+        "description": "Specijalna vrsta peciva. Pecivo produžene svežine i trajnosti.",
+        "short_description": null,
+        "product_path": "/products/60003036/hleb-kifle-puter-kifla-2x70g-140g",
+        "product_details_path": "/products/60003036",
+        "manufacturer": "Ishrana d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/301/301105558_1.jpg?1500012537",
+        "thumbnail_image_path": "images/products/301/301105558_1s.jpg?1500012537",
+        "categories": [
+            {
+                "id": 60007880,
+                "name": "Peciva",
+                "category_path": "/categories/60007880/peciva",
+                "keyword": "peciva"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60116022,
+                "image_n": "images/products/301/301105558_1.jpg?1500012537",
+                "image_s": "images/products/301/301105558_1s.jpg?1500012537",
+                "image_m": "images/products/301/301105558_1m.jpg?1500012537",
+                "image_l": "images/products/301/301105558_1l.jpg?1500012537"
+            },
+            {
+                "id": 60116021,
+                "image_n": "images/products/301/301105558_2.jpg?1500012537",
+                "image_s": "images/products/301/301105558_2s.jpg?1500012537",
+                "image_m": "images/products/301/301105558_2m.jpg?1500012537",
+                "image_l": "images/products/301/301105558_2l.jpg?1500012537"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62786545,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606006781275"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "714,21 Din/Kg",
+        "price": {
+            "amount": 9999,
+            "currency": "Din",
+            "formatted_price": "99,99 Din"
+        },
+        "netto_weight_statement": "140g",
+        "storage_instruction": "Čuvati na sobnoj temperaturi.",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "pšenično brašno, šećer, mleko, so, pšenični gluten, jaja, voda, biljna mast, biljno ulje, kvasac, fermentisano pšenično brašno, mlečni proteini, modifikovani skrob, stabilizatori (E407), regulator kiselosti (E339), antioksidans E300, enzimi, emulgatori (E471, E472e, E482, E322), kiseline (E270, E330), diacetil vanilin, gliceril tri acetat E1518, gliceril, trikaprilat-kaprat, konzervans E202, aroma, sredstvo protiv zgrudvavanja (E170), kalcijum propionat (E282), sorbinska kiselina (E200), regulator kiselosti (E262ii)",
+        "manufacturer_address": "Železnička 49, Smederevo, Srbija",
+        "contact_person": "Hleb&Kifle ",
+        "contact_person_address": "Žorža Klemensoa 19, Beograd, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "favorite": false
+    },
+    {
+        "id": 60028860,
+        "code": "300105167",
+        "name": "Braća Stanković hleb vitas +plus 300g",
+        "keyword": "braca-stankovic-hleb-vitas-plus-300g",
+        "video": null,
+        "description": "Specijalna vrsta hleba. Hleb proizveden po posebnom tehnološkom postupku od naklijalog zrna pšenice sa dodatkom lanenog i suncokretovog semena. Prirodno visok sadržaj vlakana. Prirodan izvor proteina. Smanjen sadržaj ugljenih hidrata i šećera. bez aditiva, boja i konzervansa. Bez brašna.",
+        "short_description": null,
+        "product_path": "/products/60028860/braca-stankovic-hleb-vitas-plus-300g",
+        "product_details_path": "/products/60028860",
+        "manufacturer": "AS Braća Stanković d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300105167_1.jpg?1500012400",
+        "thumbnail_image_path": "images/products/300/300105167_1s.jpg?1500012400",
+        "categories": [
+            {
+                "id": 60007878,
+                "name": "Hleb pakovani",
+                "category_path": "/categories/60007878/hleb-pakovani",
+                "keyword": "hleb-pakovani"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60136846,
+                "image_n": "images/products/300/300105167_1.jpg?1500012400",
+                "image_s": "images/products/300/300105167_1s.jpg?1500012400",
+                "image_m": "images/products/300/300105167_1m.jpg?1500012400",
+                "image_l": "images/products/300/300105167_1l.jpg?1500012400"
+            },
+            {
+                "id": 60136845,
+                "image_n": "images/products/300/300105167_2.jpg?1500012400",
+                "image_s": "images/products/300/300105167_2s.jpg?1500012400",
+                "image_m": "images/products/300/300105167_2m.jpg?1500012400",
+                "image_l": "images/products/300/300105167_2l.jpg?1500012400"
+            },
+            {
+                "id": 60136844,
+                "image_n": "images/products/300/300105167_3.jpg?1500012400",
+                "image_s": "images/products/300/300105167_3s.jpg?1500012400",
+                "image_m": "images/products/300/300105167_3m.jpg?1500012400",
+                "image_l": "images/products/300/300105167_3l.jpg?1500012400"
+            },
+            {
+                "id": 60136843,
+                "image_n": "images/products/300/300105167_4.jpg?1500012401",
+                "image_s": "images/products/300/300105167_4s.jpg?1500012401",
+                "image_m": "images/products/300/300105167_4m.jpg?1500012401",
+                "image_l": "images/products/300/300105167_4l.jpg?1500012401"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62786840,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606107058986"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "516,63 Din/Kg",
+        "price": {
+            "amount": 15499,
+            "currency": "Din",
+            "formatted_price": "154,99 Din"
+        },
+        "netto_weight_statement": "300g",
+        "storage_instruction": "Po otvaranju čuvati u frižideru na temperaturi od 4◦C do 8◦C.",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "naklijala pšenica, voda, laneno seme, suncokretovo seme, pšenični gluten, kvasac",
+        "allergens_statement": "Naklijala pšenica, pšenični gluten",
+        "variant_description": "Proizvedeno po proizvođačkoj specifikaciji",
+        "manufacturer_address": "Borisa Kidrića 1, Begaljica, Grocka, Srbija",
+        "contact_person": "AS Braća Stanković d.o.o",
+        "contact_person_address": "Borisa Kidrića 1, Begaljica, Grocka, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "preparation_instruction": "Tostiranjem, zagrevanjem u mikrotalasnoj pećnici ne gubi na kvalitetu, a dobija na mirisu i ukusu.",
+        "nutrients": [
+            {
+                "code": "ENER-",
+                "value": {
+                    "100": "1420kJ/339 kcal"
+                }
+            },
+            {
+                "code": "FAT",
+                "value": {
+                    "100": "16.5g"
+                }
+            },
+            {
+                "code": "FASAT",
+                "value": {
+                    "100": "1.91g",
+                    "portion": "0.235"
+                }
+            },
+            {
+                "code": "FAMSCIS",
+                "value": {
+                    "portion": "0.095"
+                }
+            },
+            {
+                "code": "CHOAVL",
+                "value": {
+                    "100": "25g"
+                }
+            },
+            {
+                "code": "SUGAR-",
+                "value": {
+                    "100": "0.5g",
+                    "portion": "0.095"
+                }
+            },
+            {
+                "code": "STARCH",
+                "value": {
+                    "portion": "0.006"
+                }
+            },
+            {
+                "code": "FIBTG",
+                "value": {
+                    "100": "14.5g"
+                }
+            },
+            {
+                "code": "SALTEQ",
+                "value": {
+                    "100": "15.8g"
+                }
+            },
+            {
+                "code": "GLUCNB",
+                "value": {
+                    "100": "1.1g"
+                }
+            },
+            {
+                "code": "CU",
+                "value": {
+                    "portion": "0.315"
+                }
+            },
+            {
+                "code": "BIOT",
+                "value": {
+                    "100": "0.6mg",
+                    "portion": "0.6"
+                }
+            },
+            {
+                "code": "MN",
+                "value": {
+                    "100": "130mg",
+                    "portion": "0.35"
+                }
+            },
+            {
+                "code": "NA",
+                "value": {
+                    "portion": "1"
+                }
+            },
+            {
+                "code": "THIA",
+                "value": {
+                    "portion": "0.185"
+                }
+            },
+            {
+                "code": "FE",
+                "value": {
+                    "portion": "0.55"
+                }
+            }
+        ],
+        "favorite": false
+    },
+    {
+        "id": 60010932,
+        "code": "300104554",
+        "name": "Trivit tonus tost sa dodatkom semenki 300g",
+        "keyword": "trivit-tonus-tost-sa-dodatkom-semenki-300g",
+        "video": null,
+        "description": "Tonus tost sa dodatkom semenki, bez brašna, od proklijalih zrna pšenice. Bez aditiva. Bez konzervansa. Visok sadržaj vlakana prirodnog porekla. Prirodan izvor proteina, magnezijuma, gvožđa, bakra i E vitamina. Tonus je odobren kao nzdravstveni proizvod. Tonus je jedinstveni proizvod u svetu koji nema sličnog. Tonus se priznaje za proizvod od globalnog značaja. ",
+        "short_description": null,
+        "product_path": "/products/60010932/trivit-tonus-tost-sa-dodatkom-semenki-300g",
+        "product_details_path": "/products/60010932",
+        "manufacturer": "Trivit d.o.o",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/300/300104554_1.jpg?1500012352",
+        "thumbnail_image_path": "images/products/300/300104554_1s.jpg?1500012352",
+        "categories": [
+            {
+                "id": 60008379,
+                "name": "Hleb",
+                "category_path": "/categories/60008379/hleb",
+                "keyword": "hleb"
+            },
+            {
+                "id": 60008378,
+                "name": "Hleb kaše i pahuljice",
+                "category_path": "/categories/60008378/hleb-kase-i-pahuljice",
+                "keyword": "hleb-kase-i-pahuljice"
+            },
+            {
+                "id": 60008342,
+                "name": "IDEA organic",
+                "category_path": "/categories/60008342/idea-organic",
+                "keyword": "idea-organic"
+            }
+        ],
+        "images": [
+            {
+                "id": 60120847,
+                "image_n": "images/products/300/300104554_1.jpg?1500012352",
+                "image_s": "images/products/300/300104554_1s.jpg?1500012352",
+                "image_m": "images/products/300/300104554_1m.jpg?1500012352",
+                "image_l": "images/products/300/300104554_1l.jpg?1500012352"
+            },
+            {
+                "id": 60120846,
+                "image_n": "images/products/300/300104554_2.jpg?1500012352",
+                "image_s": "images/products/300/300104554_2s.jpg?1500012352",
+                "image_m": "images/products/300/300104554_2m.jpg?1500012352",
+                "image_l": "images/products/300/300104554_2l.jpg?1500012352"
+            },
+            {
+                "id": 60120845,
+                "image_n": "images/products/300/300104554_3.jpg?1500012352",
+                "image_s": "images/products/300/300104554_3s.jpg?1500012352",
+                "image_m": "images/products/300/300104554_3m.jpg?1500012352",
+                "image_l": "images/products/300/300104554_3l.jpg?1500012352"
+            },
+            {
+                "id": 60120844,
+                "image_n": "images/products/300/300104554_4.jpg?1500012353",
+                "image_s": "images/products/300/300104554_4s.jpg?1500012353",
+                "image_m": "images/products/300/300104554_4m.jpg?1500012353",
+                "image_l": "images/products/300/300104554_4l.jpg?1500012353"
+            }
+        ],
+        "icons": [],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62786390,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8606103553348"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "583,29 Din/Kg",
+        "price": {
+            "amount": 17499,
+            "currency": "Din",
+            "formatted_price": "174,99 Din"
+        },
+        "netto_weight_statement": "300g",
+        "storage_instruction": "Nakon otvaranja proizvod čuvati u frižideru. Proizvod je pogodan za zamrzavanje. Zamrznite na dan kupovine. U zamrznutom stanju najbolje upotrebiti u roku od 3 meseca. Čuvati na suvom i tamnom mestu.",
+        "origin_statement": "Srbija",
+        "ingredients_statement": "ne vidim na slici ",
+        "allergens_statement": "Sadrži gluten",
+        "variant_description": "Proizvedeno po proizvođačkoj specifikaciji",
+        "manufacturer_address": "Industrijska bb, Bečej, Srbija",
+        "contact_person": "Trivit d.o.o",
+        "contact_person_address": "Industrijska bb, Bečej, Srbija",
+        "minimum_lifespan_from_time_of_production": "Označeno na pakovanju",
+        "nutrients": [
+            {
+                "code": "ENER-",
+                "value": {
+                    "100": "1081kJ/257 kcal"
+                }
+            },
+            {
+                "code": "FAT",
+                "value": {
+                    "100": "6.49g",
+                    "gda": "70g"
+                }
+            },
+            {
+                "code": "FASAT",
+                "value": {
+                    "100": "0.82g",
+                    "gda": "20g"
+                }
+            },
+            {
+                "code": "CHOAVL",
+                "value": {
+                    "100": "35.18g",
+                    "gda": "260g"
+                }
+            },
+            {
+                "code": "SUGAR-",
+                "value": {
+                    "100": "0.4g",
+                    "gda": "90g"
+                }
+            },
+            {
+                "code": "FIBTG",
+                "value": {
+                    "100": "9.82g"
+                }
+            },
+            {
+                "code": "PRO-",
+                "value": {
+                    "gda": "50g"
+                }
+            },
+            {
+                "code": "SALTEQ",
+                "value": {
+                    "100": "9.65g",
+                    "gda": "6g"
+                }
+            },
+            {
+                "code": "GLUCNB",
+                "value": {
+                    "100": "1.14g"
+                }
+            },
+            {
+                "code": "CU",
+                "value": {
+                    "gda": "1mg"
+                }
+            },
+            {
+                "code": "BIOT",
+                "value": {
+                    "100": "0.287mg"
+                }
+            },
+            {
+                "code": "MG",
+                "value": {
+                    "gda": "375mg"
+                }
+            },
+            {
+                "code": "MN",
+                "value": {
+                    "100": "107.2mg"
+                }
+            },
+            {
+                "code": "VITE-",
+                "value": {
+                    "gda": "12mg"
+                }
+            },
+            {
+                "code": "VITK",
+                "value": {
+                    "100": "2.8mg"
+                }
+            },
+            {
+                "code": "FE",
+                "value": {
+                    "gda": "14mg"
+                }
+            }
+        ],
+        "favorite": false
+    },
+    {
+        "id": 60071104,
+        "code": "303105024",
+        "name": "Minute tortelini sa pršutom 250g",
+        "keyword": "minute-tortelini-sa-prsutom-250g",
+        "video": null,
+        "description": null,
+        "short_description": null,
+        "product_path": "/products/60071104/minute-tortelini-sa-prsutom-250g",
+        "product_details_path": "/products/60071104",
+        "manufacturer": "Mlinotest-s d.o.o.",
+        "sales_unit_of_measure": "Kom",
+        "quantity_step": 1,
+        "min_order_quantity": 1,
+        "netto_weight_factor": 1,
+        "netto_weight": {
+            "factor": 1,
+            "weight": 1,
+            "min": null,
+            "max": null
+        },
+        "sliceable": false,
+        "catch_weight": 0,
+        "requires_deposit_packaging": false,
+        "has_image": true,
+        "image_path": "images/products/303/303105024_1.jpg?1610536593",
+        "thumbnail_image_path": "images/products/303/303105024_1s.jpg?1610536593",
+        "categories": [
+            {
+                "id": 60007881,
+                "name": "Testa",
+                "category_path": "/categories/60007881/testa",
+                "keyword": "testa"
+            },
+            {
+                "id": 60007876,
+                "name": "Pekara",
+                "category_path": "/categories/60007876/pekara",
+                "keyword": "pekara"
+            }
+        ],
+        "images": [
+            {
+                "id": 60108181,
+                "image_n": "images/products/303/303105024_1.jpg?1610536593",
+                "image_s": "images/products/303/303105024_1s.jpg?1610536593",
+                "image_m": "images/products/303/303105024_1m.jpg?1610536593",
+                "image_l": "images/products/303/303105024_1l.jpg?1610536593"
+            },
+            {
+                "id": 60175053,
+                "image_n": "images/products/303/303105024_2.jpg?1610536593",
+                "image_s": "images/products/303/303105024_2s.jpg?1610536593",
+                "image_m": "images/products/303/303105024_2m.jpg?1610536593",
+                "image_l": "images/products/303/303105024_2l.jpg?1610536593"
+            }
+        ],
+        "icons": [
+            {
+                "type": "offer",
+                "name": "",
+                "image": {
+                    "media_device": "/assets/icons/offer_media_device-db636ca0bbb5facb3daa386c2480bb4b.png",
+                    "mobile": "/assets/icons/offer_mobile-5bc4111c7e618646da9558deeaa68620.png"
+                }
+            }
+        ],
+        "lifetime": null,
+        "product_uoms": [
+            {
+                "id": 62779939,
+                "name": "KOM",
+                "netto_weight": 1000,
+                "gross_weight": null,
+                "smaller_unit": null,
+                "smaller_unit_factor": null,
+                "dimensions": null,
+                "volume": null,
+                "barcode": null
+            }
+        ],
+        "barcodes": ["8605002326640"],
+        "active": true,
+        "price_unit_of_measure": "Kom",
+        "statistical_price": "399,96 Din/Kg",
+        "offer": {
+            "id": 61682028,
+            "offer_category_id": 60034166,
+            "type": "DiscountByPrice",
+            "start_on": "22.02.2021.",
+            "end_on": "07.03.2021.",
+            "order_of": 0,
+            "is_mpc": false,
+            "offer_percentage": 33,
+            "price": {
+                "amount": 9999,
+                "currency": "Din",
+                "formatted_price": "99,99 Din"
+            },
+            "original_price": {
+                "amount": 14999,
+                "currency": "Din",
+                "formatted_price": "149,99 Din"
+            },
+            "price_difference": {
+                "amount": 5000,
+                "currency": "Din",
+                "formatted_price": "50,00 Din"
+            },
+            "shop_types_supported": null,
+            "web_available_only": false
+        },
+        "price": {
+            "amount": 9999,
+            "currency": "Din",
+            "formatted_price": "99,99 Din"
+        },
+        "netto_weight_statement": "250g",
+        "storage_instruction": "Čuvati na temperaturi od 0°C do +6°C.",
+        "origin_statement": "Republika Srbija",
+        "ingredients_statement": "Pšenični griz T-400, pšenični griz durum pšenice, voda, hlebne mrvice (pšenično brašno T-500, kvasac, kuhinjska so), Pršut 7% (svinjski but b/k sa pripadajućim masnim tkivom, rafinisana morska so, kuhinjska so, konzervans E250), mortadela (svinjsko meso, goveđe meso, čvrsto masno tkivo, vezivno tkivo, belančevinasti proizvodi od soje, kuhinjska so, stabilizator E452, antioksidans E301, konzervans E250 i začini), jaja u prahu, kuhinjska so, pojačivač ukusa E621, mešavina začina, aroma pršute. Proizvod sadrži gluten, jaja i proizvod od soje.",
+        "allergens_statement": "Pšenični griz T-400, pšenični griz durum pšenice, pšenično brašno T-500. Proizvod sadrži gluten, jaja i proizvod od soje.",
+        "variant_description": "ambalaža-kesa",
+        "manufacturer_address": "Kraljevačka-istočna radna zona bb, 22400 Ruma, Republika Srbija",
+        "contact_person": "Mercator-S d.o.o.",
+        "contact_person_address": "Temerinski put 50, Novi Sad",
+        "minimum_lifespan_from_time_of_production": "utisnuto na ambalaži",
+        "management_instructions": "Proizvod je potrebno termički obraditi: kuvati u kipućoj vodi 10 minuta.",
+        "nutrients": [
+            {
+                "code": "ENER-",
+                "value": {
+                    "100": "1180 kJ/281 kcal"
+                }
+            },
+            {
+                "code": "FAT",
+                "value": {
+                    "100": "2.0g"
+                }
+            },
+            {
+                "code": "FASAT",
+                "value": {
+                    "100": "0.1g"
+                }
+            },
+            {
+                "code": "CHOAVL",
+                "value": {
+                    "100": "56.0g"
+                }
+            },
+            {
+                "code": "SUGAR-",
+                "value": {
+                    "100": "2.0g"
+                }
+            },
+            {
+                "code": "PRO-",
+                "value": {
+                    "100": "9.6g"
+                }
+            },
+            {
+                "code": "GLUCNB",
+                "value": {
+                    "100": "1.0g"
+                }
+            }
+        ],
+        "favorite": false
+    }
+]

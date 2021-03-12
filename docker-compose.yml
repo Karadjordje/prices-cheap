@@ -1,0 +1,23 @@
+version: '3.9'
+
+services:
+    db:
+        image: postgres
+        environment:
+            - POSTGRES_DB=postgres
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=postgres
+        ports:
+            - '5432:5432'
+    testdb:
+        image: postgres
+        environment:
+            - POSTGRES_DB=testdb
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=postgres
+        ports:
+            - '5431:5432'
+    redis:
+        image: redis
+        ports:
+            - '6379:6379'
