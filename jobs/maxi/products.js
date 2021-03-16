@@ -32,7 +32,7 @@ const populateCategory = async (catId, page = 0) => {
             price: { value: price },
         } = products[i];
 
-        const imageUrl = images[0].url;
+        const imageUrl = images ? images[0].url : null; // There are products without images
         const centPrice = new Decimal(100 * price).round();
 
         const slug = slugify(name.toLowerCase());

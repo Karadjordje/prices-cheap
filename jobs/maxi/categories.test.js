@@ -13,7 +13,7 @@ beforeEach(async () => {
         nock('https://www.maxi.rs')
             .persist()
             .get(
-                `/online/c/${i
+                `/online/c/${(i + 1)
                     .toString()
                     .padStart(
                         2,
@@ -50,7 +50,7 @@ it('should not insert duplicate category', async () => {
     expect(categories.length).toBe(1);
 });
 
-it('should not insert duplicate categories', async () => {
+it.only('should not insert duplicate categories', async () => {
     await populateCategories();
     await populateCategories();
     await populateCategories();
@@ -62,4 +62,4 @@ it('should not insert duplicate categories', async () => {
     expect(categories).toBe(fixtures.length);
 });
 
-// afterAll(() => db.sequelize.close());
+afterAll(() => db.sequelize.close());

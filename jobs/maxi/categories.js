@@ -2,9 +2,8 @@ const fetch = require('node-fetch');
 const slugify = require('slugify');
 const db = require('../../models');
 
-const populateCategories = async (catId = 0) => {
+const populateCategories = async (catId = 1) => {
     const searchCategory = catId.toString().padStart(2, '0');
-
     const res = await fetch(
         `https://www.maxi.rs/online/c/${searchCategory}/loadMore?pageSize=200&pageNumber=0&sort=relevance`,
     );
