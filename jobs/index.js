@@ -1,1 +1,2 @@
 require('./idea');
+require('./maxi');
