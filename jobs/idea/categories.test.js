@@ -27,6 +27,9 @@ it('should not insert duplicate category', async () => {
         name: 'Pekara',
         description: 'Jer to je pekara by top 011',
         slug: 'pekara',
+        references: {
+            idea: 60007876,
+        },
     });
 
     await populateCategories();
@@ -49,7 +52,17 @@ it('should not insert duplicate categories', async () => {
     await populateCategories();
 
     const categories = await db.Category.count();
-    expect(categories).toBe(fixtures.length);
+
+    /* eslint-disable no-param-reassign */
+    const totalCategories = fixtures.reduce((acc, current) => {
+        if (current.children && current.children.length > 0) {
+            acc += current.children.length;
+        }
+        return acc;
+    }, fixtures.length);
+    /* eslint-enable no-param-reassign */
+
+    expect(categories).toBe(totalCategories);
 });
 
 afterAll(() => db.sequelize.close());
