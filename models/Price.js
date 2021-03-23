@@ -8,6 +8,7 @@ module.exports = (sequelize, DataTypes) => {
         },
         value: { type: DataTypes.INTEGER, allowNull: false },
         date: { type: DataTypes.DATEONLY, allowNull: false },
+        reducedPrice: { type: DataTypes.BOOLEAN, allowNull: false },
         // storeId
         // productId
         // createdAt
@@ -17,6 +18,12 @@ module.exports = (sequelize, DataTypes) => {
     Price.associate = (models) => {
         models.Product.belongsToMany(models.Store, { through: models.Price });
         models.Store.belongsToMany(models.Product, { through: models.Price });
+
+        models.Price.belongsTo(models.Product);
+        models.Product.hasMany(models.Price);
+
+        models.Price.belongsTo(models.Store);
+        models.Store.hasMany(models.Price);
     };
 
     return Price;
