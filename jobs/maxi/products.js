@@ -4,6 +4,7 @@ const pAll = require('p-all');
 const { Op } = require('sequelize');
 const ms = require('ms');
 const Decimal = require('decimal.js');
+
 const db = require('../../models');
 const delay = require('../../utils/delay');
 
