@@ -31,10 +31,12 @@ const populateCategory = async (catId, page = 0) => {
             images,
             code: id,
             price: { value: price },
+            discountFlag,
         } = products[i];
 
         const imageUrl = images ? images[0].url : null; // There are products without images
         const centPrice = new Decimal(100 * price).round();
+        const reducedPrice = discountFlag !== 'no-discount';
 
         const slug = slugify(name.toLowerCase());
 
@@ -58,6 +60,7 @@ const populateCategory = async (catId, page = 0) => {
 
         await db.Price.upsert({
             value: centPrice,
+            reducedPrice,
             date: new Date(),
             productId: product.id,
             storeId: store.id,
