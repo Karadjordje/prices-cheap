@@ -25,6 +25,7 @@ const populateCategory = async (catId, page = 1) => {
             i
         ];
 
+        const reducedPrice = 'offer' in products[i]; // If key 'offer' exists that means product is on discount
         const slug = slugify(name.toLowerCase());
 
         let product = await db.Product.findOne({
@@ -47,6 +48,7 @@ const populateCategory = async (catId, page = 1) => {
 
         await db.Price.upsert({
             value: price.amount,
+            reducedPrice,
             date: new Date(),
             productId: product.id,
             storeId: store.id,
