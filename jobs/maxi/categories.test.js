@@ -50,7 +50,7 @@ it('should not insert duplicate category', async () => {
     expect(categories.length).toBe(1);
 });
 
-it.only('should not insert duplicate categories', async () => {
+it('should not insert duplicate categories', async () => {
     await populateCategories();
     await populateCategories();
     await populateCategories();
