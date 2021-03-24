@@ -27,6 +27,7 @@ it('should return products', async () => {
 
     await db.Price.create({
         storeId: store.id,
+        reducedPrice: false,
         productId: coko.id,
         value: 10,
         date: new Date(),

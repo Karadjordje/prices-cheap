@@ -13,14 +13,17 @@ it('should return all prices', async () => {
         {
             value: 5,
             date: new Date(),
+            reducedPrice: false,
         },
         {
             value: 12,
             date: new Date(),
+            reducedPrice: true,
         },
         {
             value: 30,
             date: '2020-08-25',
+            reducedPrice: false,
         },
     ]);
 
