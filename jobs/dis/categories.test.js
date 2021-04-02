@@ -56,15 +56,18 @@ it('should insert all categories', async () => {
 
 it('should not insert duplicate category', async () => {
     await db.Category.create({
-        name: 'SOKOVI"',
-        slug: 'sokovi"',
+        name: 'SOKOVI',
+        slug: 'sokovi',
+        references: {
+            dis: 'O101',
+        },
     });
 
     await populateCategories();
 
     const categories = await db.Category.findAll({
         where: {
-            slug: 'sokovi"',
+            slug: 'sokovi',
         },
     });
 

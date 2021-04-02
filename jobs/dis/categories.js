@@ -74,7 +74,7 @@ const populateCategories = async () => {
     ) => {
         let existing = await db.Category.findOne({
             where: {
-                slug,
+                'references.dis': id,
             },
         });
 
