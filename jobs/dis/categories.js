@@ -3,15 +3,23 @@ const cheerio = require('cheerio');
 const iconv = require('iconv-lite');
 const slugify = require('slugify');
 const pAll = require('p-all');
+const getSessionId = require('./get-session-id');
 const db = require('../../models');
 
 const URL = 'https://online.dis.rs/proizvodi.php';
 
 const populateCategories = async () => {
+    const sessionId = await getSessionId();
+
+    if (!sessionId) {
+        // eslint-disable-next-line no-console
+        console.log('There was an error with getting session ID!');
+        return;
+    }
+
     const res = await fetch(URL, {
         headers: {
-            cookie:
-                'PHPSESSID=gleun9s4uvhql6urc8ogtsa1r0; privacy_policy=yes; b2c_brArtPoStr=24; b2c_sortArt=kategorijaPromet',
+            cookie: `privacy_policy=yes; PHPSESSID=${sessionId}; b2c_sortArt=kategorijaPromet; b2c_brArtPoStr=96`,
         },
     });
 
@@ -94,6 +102,7 @@ const populateCategories = async () => {
             );
         }
     };
+
     await pAll(
         categories.map((category) => async () => {
             await insertCategory(category);

@@ -7,6 +7,10 @@ const iconv = require('iconv-lite');
 const populateCategories = require('./categories');
 const db = require('../../models');
 
+jest.mock('./get-session-id', () => () =>
+    Promise.resolve('qnchtfaf3672n12dkakceipfq2'),
+);
+
 const fixturesPath = path.join(__dirname, 'fixtures', 'categories.html');
 let fixtures;
 
@@ -15,7 +19,7 @@ beforeAll(async () => {
         const res = await fetch('https://online.dis.rs/proizvodi.php', {
             headers: {
                 cookie:
-                    'PHPSESSID=gleun9s4uvhql6urc8ogtsa1r0; privacy_policy=yes; b2c_brArtPoStr=24; b2c_sortArt=kategorijaPromet',
+                    'privacy_policy=yes; PHPSESSID=qnchtfaf3672n12dkakceipfq2; b2c_sortArt=kategorijaPromet; b2c_brArtPoStr=96',
             },
         });
 
@@ -34,7 +38,7 @@ beforeEach(async () => {
     nock('https://online.dis.rs', {
         headers: {
             cookie:
-                'PHPSESSID=gleun9s4uvhql6urc8ogtsa1r0; privacy_policy=yes; b2c_brArtPoStr=24; b2c_sortArt=kategorijaPromet',
+                'privacy_policy=yes; PHPSESSID=qnchtfaf3672n12dkakceipfq2; b2c_sortArt=kategorijaPromet; b2c_brArtPoStr=96',
         },
     })
         .persist()
