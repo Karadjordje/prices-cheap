@@ -1,0 +1,235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0053)https://online.dis.rs/proizvodi.php?limit=2222&kat=P1 -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>DIS INTERNET PRODAVNICA</title>
+<link href="./DIS INTERNET PRODAVNICA_files/bootstrap.min.css" rel="stylesheet">
+<link href="./DIS INTERNET PRODAVNICA_files/dizajn.css" rel="stylesheet">
+<link href="./DIS INTERNET PRODAVNICA_files/dizajn(1).css" rel="stylesheet">
+<link rel="stylesheet" href="./DIS INTERNET PRODAVNICA_files/dizajn-meni.css">
+<script src="./DIS INTERNET PRODAVNICA_files/jquery.min.js"></script>
+<script src="./DIS INTERNET PRODAVNICA_files/jstree.min.js"></script>
+<script src="./DIS INTERNET PRODAVNICA_files/jquery.podesavanja.js"></script>
+<script src="./DIS INTERNET PRODAVNICA_files/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+  <!-- header --------------------------------------------------------------->
+  <header>
+     <div id="header-top">
+         <div id="header-top-left">
+            Vaš lični prodavac - Besplatan poziv: <b><span class="text-header-crven">0800 101 101</span></b>
+         </div>
+         <div id="header-top-right">
+			
+			<a href="https://online.dis.rs/moja-korpa.php" class="link-header-meni">Moja korpa</a> <span class="text-header-meni-rastavnica">|</span><a href="https://online.dis.rs/pracenje-porudzbine.php" class="link-header-meni">Praćenje porudžbine</a> <span class="text-header-meni-rastavnica">|</span><a href="https://online.dis.rs/istorija.php" class="link-header-meni">Istorija</a> <span class="text-header-meni-rastavnica">|</span><a href="https://online.dis.rs/info.php" class="link-header-meni">Info</a> <span class="text-header-meni-rastavnica">|</span><a href="https://online.dis.rs/moj-nalog.php" class="link-header-meni">Moj nalog</a><span class="text-header-meni-rastavnica">|</span><a href="https://online.dis.rs/odjava.php" class="link-header-meni">Odjava</a>            
+            
+         </div>
+     </div>
+     
+     <div id="header-nav">
+         
+         
+         <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a href="https://online.dis.rs/pocetna.php"><img src="./DIS INTERNET PRODAVNICA_files/logo.png" class="img-responsived" style="height: 50px;"></a>
+                </div>
+                <div id="kruzici" class="col-md-4 col-sm-6 col-xs-12 padding2" style="padding: 20px 0;">
+
+                                        <div class="row p-5">
+                         <div class="col-md-3 col-sm-3 col-xs-3 offset-tab-meni">
+                            <a href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?segment=akcija&#39;);return false;"><img src="./DIS INTERNET PRODAVNICA_files/btn-akcija.png" class="img-responsive" style="max-width:100%; min-width:40px; height:auto;"></a> 
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-3 offset-tab-meni">
+                            <a href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?segment=novo&#39;);return false;"><img src="./DIS INTERNET PRODAVNICA_files/btn-novo.png" class="img-responsive" style="max-width:100%; min-width:40px; height:auto;"></a> 
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-3 offset-tab-meni ">
+                            <a href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?segment=omiljeni&#39;);return false;"><img src="./DIS INTERNET PRODAVNICA_files/btn-omiljeni.png" class="img-responsive" style="max-width:100%; min-width:40px; height:auto;"> </a> 
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-3 offset-tab-meni">
+                            <a href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?segment=pl&#39;);return false;"><img src="./DIS INTERNET PRODAVNICA_files/btn-nasi-brendovi.png" class="img-responsive" style="max-width:100%; min-width:40px; height:auto;"></a> 
+                        </div>                                                                                    
+                    </div>
+                                         
+                </div>
+                
+                <div class="col-md-2 col-sm-6 col-xs-12 padding2 padding1">
+                    <span class="tekst-pretraga-opis">Unesite naziv ili deo naziva artikla:</span><br>
+                    <div id="custom-search-input">
+                        <form id="formaPretraga">
+                        <div class="input-group">
+                            <input type="text" name="pretraga" id="pretragaId" class="form-control input-md" placeholder="Pretraga ...">
+                            <span class="input-group-btn">
+                                <button class="btn btn-info btn-lg" type="submit">
+                                    <i class="glyphicon glyphicon-search"></i>
+                                </button>
+                            </span>
+                        </div>
+                        </form>
+                        <script>
+						     //pretraga
+							 $("form#formaPretraga").submit(function(){;
+								var pretraga = $( "#pretragaId" ).val();
+
+								
+								if (pretraga=="" && '' =="") {
+									alert('Za pretragu unesite parametar pretrage!');
+									return false;
+								} else {
+									proslediNaStranicu('proizvodi.php?pretraga='+pretraga+'&kat=P1');
+									return false;
+								}
+
+							 });
+						</script>
+                   </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 padding2 padding1">
+
+                        <a href="https://online.dis.rs/moja-korpa.php" title="Pogledajte korpu &gt;&gt;">
+                        <div id="header-nav-korpa-icon">
+                          <img src="./DIS INTERNET PRODAVNICA_files/icon-header-korpa.png">
+                        </div>
+                        <div id="header-nav-korpa-podaci">
+                          <div class="text-header-korpa-info">MOJA KORPA</div>
+                          <div class="text-header-korpa-suma" id="korpaSumaHeader">
+                                0,00                          </div>
+                          <div class="text-header-korpa-info">proizvoda u korpi (<span id="brArtKorpaHeader">0</span>)</div>
+                        </div>
+                        </a>
+                    
+                    <!--
+                    <div style="display:inline-block; float:left;">
+                       Uredi svoj profil<br/>
+                       Omiljeni proizvodi<br/>
+                       Istorija kupovine
+                    </div>
+                    <div style="display:inline-block; float:right">
+                        <div id="header-nav-korpa-icon">
+                          <img src="images/icon-header-korpa.png" />
+                        </div>
+                        <div id="header-nav-korpa-podaci">
+                          <div>MOJA KORPA</div>
+                          <div>22.360,00</div>
+                          <div>24 proizvoda u korpi</div>
+                        </div>
+                    </div>
+                    -->
+                    
+                    
+                    
+                </div>
+          </div>
+
+      </div>
+      
+  </header>
+  <div style="clear:both"></div>
+  
+  <!-- end header --------------------------------------------------------------->
+  <!-- main --------------------------------------------------------------->
+  <div class="container" id="main-proizvodi">
+
+          <div class="row">
+            <div class="col-md-3 col-sm-4" id="main-kategorije">
+                <div class="text-kategorije-prikazi">PRIKAŽI:</div>
+
+                <div id="menikat" class="jstree jstree-1 jstree-proton jstree-proton-responsive" role="tree"><ul class="jstree-container-ul jstree-children"><li role="treeitem" data-jstree="{&quot;opened&quot;:true,&quot;selected&quot;:true}" id="j1_1" class="jstree-node  jstree-leaf"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor  jstree-clicked" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?segment=ceoAsortiman&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>Sve proizvode</a></li><li role="treeitem" aria-expanded="false" id="j1_2" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?segment=akcija&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>Akcijske proizvode</a></li><li role="treeitem" id="j1_5" class="jstree-node  jstree-leaf"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?segment=novo&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>Nove proizvode</a></li><li role="treeitem" id="j1_6" class="jstree-node  jstree-leaf"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?segment=omiljeni&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>Omiljene proizvode</a></li><li role="treeitem" id="j1_7" class="jstree-node  jstree-leaf"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?segment=pl&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>Naši brendovi</a></li><li role="treeitem" id="j1_8" class="jstree-node  jstree-leaf"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?segment=domace&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>Domaća korpa</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:true,&quot;opened&quot;:true}" aria-expanded="true" id="j1_9" class="jstree-node  jstree-open"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor  jstree-clicked" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=P1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>ALKOHOLNA PIĆA</a><ul role="group" class="jstree-children"><li role="treeitem" data-jstree="{&quot;selected&quot;:false}" id="j1_10" class="jstree-node  jstree-leaf"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=P100&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>PIVO</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false}" id="j1_11" class="jstree-node  jstree-leaf"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=P101&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>VINO</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false}" id="j1_12" class="jstree-node  jstree-leaf jstree-last"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=P102&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>ŽESTOKA PIĆA</a></li></ul></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_13" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=O1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>BEZALKOHOLNA PIĆA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_17" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=S1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>DEČIJI I BABY PROGRAM</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_22" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=U1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>DOMAĆINSTVO I KUHINJA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_33" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=I1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>HLEB I PECIVA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_39" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=T1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>HRANA ZA ŽIVOTINJE</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_42" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=N1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>KAFA I OSTALI NAPICI</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_49" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=AB&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>KANCELARIJSKI I ŠKOLSKI PRIBOR</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_52" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=M1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>KONDITORI</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_58" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=R1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>KUĆNA HEMIJA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_66" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=Q1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>LIČNA HIGIJENA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_74" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=D1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>MESNE I RIBLJE KONZERVE</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_77" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=B1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>MESNE I RIBLJE PRERAĐEVINE</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_79" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=C1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>MLEKO, MLEČNI PROIZVODI I JAJA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_87" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=J1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>NAMAZI I PRILOZI</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_94" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=H1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>OSNOVNE ŽIVOTNE NAMIRNICE</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_106" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=QB&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>PAPIRNA GALANTERIJA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_111" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=UB&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>PIROTEHNIKA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_116" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=F1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>PRERADA OD VOĆA I POVRĆA I MED</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_120" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=EB&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>RASVETA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" id="j1_122" class="jstree-node  jstree-leaf"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=MB&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>RINFUZI</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_123" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=X1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>SEZONSKI PROGRAM</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_128" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=E1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>SMRZNUTI PROGRAM</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_136" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=Z1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>SVE ZA AUTOMOBILE</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_139" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=A1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>SVEŽE MESO I RIBA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_143" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=G1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>SVEŽE VOĆE I POVRĆE</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_147" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=W1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>TEHNIKA&amp;ALATI</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_150" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=V1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>TEKSTIL</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_153" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=Y1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>ZABAVA</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_156" class="jstree-node  jstree-closed"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=L1&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>ZAČINI I PRAŠKASTI PROIZVODI</a></li><li role="treeitem" data-jstree="{&quot;selected&quot;:false,&quot;opened&quot;:false}" aria-expanded="false" id="j1_164" class="jstree-node  jstree-closed jstree-last"><i class="jstree-icon jstree-ocl"></i><a class="jstree-anchor" href="https://online.dis.rs/proizvodi.php?limit=2222&amp;kat=P1#" onclick="proslediNaStranicu(&#39;proizvodi.php?kat=MA&#39;);return false;"><i class="jstree-icon jstree-themeicon"></i>ZDRAVA HRANA</a></li></ul></div>
+            </div>
+
+            <div class="col-md-9 col-sm-8" id="main-artikli">
+            
+               <span class="text-kategorije-izabrano">
+                   SVI PROIZVODI / ALKOHOLNA PIĆA               </span><br>
+                                                                  
+               
+               
+               <div class="row">
+
+                       
+
+                              <div style="padding:15px;">
+                                  <br>
+                                  <span class="text-naslov-manji-crven">Nema rezultata!</span>
+                                  <div class="bg-rastavnica"></div>
+                                  Izabrani segment (SVI PROIZVODI) i kategorija (ALKOHOLNA PIĆA) ne sadrže artikle.<br>
+                                  Molimo  izaberite drugu kategoriju ili segment.<br> 
+                                  <div style="text-align: center;">
+                                      <img src="./DIS INTERNET PRODAVNICA_files/pretraga-nema-rezultata.jpg" style="height:100%; max-height: 650px;">
+                                  </div>
+                              </div> 
+                                               
+                    
+
+                    </div>
+                    
+                                        
+              </div>
+         </div>
+         
+         
+         
+         
+         
+         <!--
+         <div class="pagination pagination-centered">
+                <ul>
+                  <li><a href="#">‹</a></li>
+                  <li class="active"><a href="#">10</a></li>
+                  <li ><a href="#">11</a></li>
+                  <li ><a href="#">12</a></li>
+                  <li ><a href="#">13</a></li>
+                  <li class="disabled"><a href="#">14</a></li>
+                  <li class="disabled"><a href="#">15</a></li>
+                  <li><a href="#">20</a></li>
+                  <li><a href="#">›</a></li>
+                </ul>
+        </div>
+        -->
+
+  </div> 
+  <!--</section>-->
+  <div style="clear:both"></div>
+  <!-- end main --------------------------------------------------------------->
+  
+
+
+  <!-- footer --------------------------------------------------------------->
+<footer>
+   www.dis.rs - Copyright © DIS d.o.o. 2006 - 2021 | Sva prava zadržana | <a href="https://online.dis.rs/pravila-i-uslovi-kupovine.php">Uslovi i pravila</a></footer>
+<div class="loading" id="loading" style="display:none;"><p>Sadržaj se učitava. Molimo sačekajte.</p></div>
+<!-- end header --------------------------------------------------------------->
+<!--
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76089026-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+
+			/* zavrsena porudzbina */
+			$("#poslataPorudbinaA").click(function() {
+				ga('send','pageview','moja-korpa-poslato.php')
+			});
+			$("#poslataPorudbinaB").click(function() {
+				ga('send','pageview','moja-korpa-poslato.php')
+			});
+			$("#poslataPorudbinaC").click(function() {
+				ga('send','pageview','moja-korpa-poslato.php')
+			});
+			
+		});
+</script>
+-->
+
+</body></html>
