@@ -78,12 +78,9 @@ it('should not insert duplicate categories', async () => {
     await populateCategories();
     await populateCategories();
     await populateCategories();
-    await populateCategories();
-    await populateCategories();
-    await populateCategories();
 
     const categories = await db.Category.count();
-    expect(categories).toBe(158);
+    expect(categories).toBe(159);
 });
 
 afterAll(() => db.sequelize.close());
