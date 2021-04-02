@@ -1,44 +1,99 @@
 const fetch = require('node-fetch');
+const cheerio = require('cheerio');
 const slugify = require('slugify');
+
+const pAll = require('p-all');
 const db = require('../../models');
 
-const populateCategories = async (catId = 1) => {
-    const searchCategory = catId.toString().padStart(2, '0');
-    const res = await fetch(
-        `https://www.maxi.rs/online/c/${searchCategory}/loadMore?pageSize=200&pageNumber=0&sort=relevance`,
-    );
+const URL = 'https://www.maxi.rs/online';
 
-    if (res.status !== 200) {
-        return;
-    }
+const findCategories = async () => {
+    const res = await fetch(URL);
+    const body = await res.text();
 
-    const results = await res.json();
+    const $ = cheerio.load(body);
 
-    const { categoryName, categoryCode: id } = results;
-    const slug = slugify(categoryName.toLowerCase());
+    const mapCategory = (el) => {
+        const name = $(el).find('a').first().text();
+        const slug = slugify(name.toLowerCase());
+        const catUrl = $(el).find('a').first().attr('href');
+        const id = catUrl.split('/').pop();
+        const subcategories = [];
 
-    const existing = await db.Category.findOne({
-        where: { slug },
-    });
+        const childEls = $(el)
+            .children('.level-container')
+            .children('ul')
+            .children('li');
 
-    if (!existing) {
-        await db.Category.create({
-            name: categoryName,
+        if (childEls.length > 0) {
+            childEls.each((i, li) => {
+                subcategories.push(mapCategory(li));
+            });
+        }
+
+        return {
+            name,
             slug,
-            references: {
-                maxi: id,
-            },
-        });
-    } else if (existing.references.maxi !== id) {
-        await existing.update({
-            references: {
-                ...existing.references,
-                id,
-            },
-        });
-    }
+            catUrl,
+            id,
+            subcategories,
+        };
+    };
 
-    await populateCategories(catId + 1);
+    const catSelector = $('.LeftHandNav .top-level-container > ul > li');
+    const allCategories = catSelector.slice(2, catSelector.length - 3);
+
+    const categories = [];
+    allCategories.map((i, el) => categories.push(mapCategory(el)));
+    return categories;
+};
+
+const populateCategories = async () => {
+    const categories = await findCategories();
+
+    const insertCategory = async (
+        { slug, name, id, subcategories },
+        parentId,
+    ) => {
+        let existing = await db.Category.findOne({
+            where: {
+                'references.maxi': id,
+            },
+        });
+
+        if (!existing) {
+            existing = await db.Category.create({
+                name,
+                slug,
+                references: {
+                    maxi: id,
+                },
+                categoryId: parentId,
+            });
+        } else if (existing.references.maxi !== id) {
+            await existing.update({
+                references: {
+                    ...existing.references,
+                    id,
+                },
+                categoryId: parentId,
+            });
+        }
+        if (subcategories && subcategories.length > 0) {
+            await Promise.all(
+                subcategories.map((cat) => insertCategory(cat, existing.id)),
+            );
+        }
+    };
+
+    await pAll(
+        categories.map((category) => async () => {
+            await insertCategory(category);
+        }),
+        {
+            concurrency: 1,
+        },
+    );
 };
 
 module.exports = populateCategories;
