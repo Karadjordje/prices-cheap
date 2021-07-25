@@ -9,6 +9,7 @@ module.exports = {
             },
             value: { type: Sequelize.INTEGER, allowNull: false },
             date: { type: Sequelize.DATEONLY, allowNull: false },
+            reducedPrice: { type: Sequelize.BOOLEAN, allowNull: false },
             storeId: {
                 type: Sequelize.INTEGER,
                 references: { model: 'stores', key: 'id' },

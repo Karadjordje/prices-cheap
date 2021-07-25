@@ -7,18 +7,27 @@ const { Op } = require('sequelize');
 const ms = require('ms');
 const Decimal = require('decimal.js');
 
+const getSessionId = require('./get-session-id');
 const db = require('../../models');
 const delay = require('../../utils/delay');
 
 const articlesPerPage = 96;
 
 const populateCategory = async (catId, page = 0) => {
+    const sessionId = await getSessionId();
+
+    if (!sessionId) {
+        // eslint-disable-next-line no-console
+        console.log('There was an error with getting session ID!');
+        return null;
+    }
+
     const limit = page * articlesPerPage;
     const res = await fetch(
         `https://online.dis.rs/proizvodi.php?limit=${limit}&kat=${catId}`,
         {
             headers: {
-                cookie: `privacy_policy=yes; PHPSESSID=qnchtfaf3672n12dkakceipfq2; b2c_sortArt=kategorijaPromet; b2c_brArtPoStr=96`,
+                cookie: `privacy_policy=yes; PHPSESSID=${sessionId}; b2c_sortArt=kategorijaPromet; b2c_brArtPoStr=${articlesPerPage}`,
             },
         },
     );

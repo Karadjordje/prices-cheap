@@ -11,6 +11,10 @@ module.exports = {
             slug: { type: Sequelize.STRING, allowNull: false },
             description: { type: Sequelize.TEXT },
             references: { type: Sequelize.JSONB, defaultValue: {} }, // { idea: 5 }
+            categoryId: {
+                type: Sequelize.INTEGER,
+                references: { model: 'categories', key: 'id' },
+            },
             createdAt: { type: Sequelize.DATE },
             updatedAt: { type: Sequelize.DATE },
         });

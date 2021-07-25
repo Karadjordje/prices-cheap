@@ -3,16 +3,16 @@ const populateProducts = require('../jobs/maxi/products');
 
 module.exports = {
     run: async (db) => {
-        const existing = await db.Category.findOne({
+        const existing = await db.Store.findOne({
             where: {
-                slug: 'maxi',
+                code: 'maxi',
             },
         });
 
         if (!existing) {
             await db.Store.create({
                 code: 'maxi',
-                name: 'maxi',
+                name: 'Maxi',
             });
         }
 

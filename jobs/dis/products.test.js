@@ -4,14 +4,18 @@ const fetch = require('node-fetch');
 const nock = require('nock');
 const iconv = require('iconv-lite');
 
-const alcoholCategoryId = 'P1';
 const populateProducts = require('./products');
 const db = require('../../models');
+
+jest.mock('./get-session-id', () => () =>
+    Promise.resolve('qnchtfaf3672n12dkakceipfq2'),
+);
 
 const noResultsFixture = path.join(__dirname, 'fixtures', 'no-results.html');
 const noResults = fs.readFileSync(noResultsFixture);
 const fixturesPath = path.join(__dirname, 'fixtures', 'products.html');
 let fixtures;
+const alcoholCategoryId = 'P1';
 
 beforeAll(async () => {
     if (!fs.existsSync(fixturesPath)) {
